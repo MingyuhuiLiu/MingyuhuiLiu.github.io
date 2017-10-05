@@ -5,16 +5,12 @@ description:
 keywords: Data analytics
 ---
 
-### <a name="ContactMe"></a>Contact Me
-Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
-Tel: +1 919 699 9657
-
 ### <a name="Bio"></a>Bio
 Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
 
-Jane is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. 
+Jane's main interest lies in using her data analytics skillz to succeed in consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. 
 
-Jane's main interest lies in using her data analytics skill to succeed in consulting or financial services. 
+For more information, please go to "About", or simply click on the following links!
 
 <div class="navbar">
   <div class="navbar-inner">
@@ -26,6 +22,10 @@ Jane's main interest lies in using her data analytics skill to succeed in consul
       </ul>
   </div>
 </div>
+
+### <a name="ContactMe"></a>Contact Me
+Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
+Tel: +1 919 699 9657
 
 ### <a name="Portfolio"></a>Portfolio
 
