@@ -65,6 +65,3 @@ Tel: +1 919 699 9657
   </div>
 </div>
 
-## <a name="ContactMe"></a>Contact Me
-Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
-Tel: +1 919 699 9657
