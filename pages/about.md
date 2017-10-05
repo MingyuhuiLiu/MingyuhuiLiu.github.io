@@ -13,8 +13,8 @@ Technology/Management Consulting
 Financial Industry
 
 #### <a name="education"></a>ecucation
-Duke University | Master of Environmental Management
-Xi'an Jiaotong University | Bachelor of Engineering (Energy Power System and Automation)
+Duke University, Master of Environmental Management
+Xi'an Jiaotong University, Bachelor of Engineering (Energy Power System and Automation)
 
 #### <a name="previousposition"></a>previous positions
 
