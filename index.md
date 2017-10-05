@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Mingyuhui Liu(Jane)
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+description: 
+keywords: Data analytics
 ---
 
 <div class="navbar">
@@ -11,7 +11,7 @@ keywords: statistics, data analytics
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/bsharvey">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="https://www.linkedin.com/in/mingyuhuiliu/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
