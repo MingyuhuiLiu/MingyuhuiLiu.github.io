@@ -27,7 +27,7 @@ Xi'an Jiaotong University | Bachelor of Engineering (Energy Power System and Aut
 
 #### <a name="cvandresume"></a>cv and resume
 [Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf)
-[中文版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf)
+[中文版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇_中文版)
 
 ---
 
