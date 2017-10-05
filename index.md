@@ -5,19 +5,19 @@ description:
 keywords: Data analytics
 ---
 
-## <a name="ContactMe"></a>Contact Me
+### <a name="ContactMe"></a>Contact Me
 Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
 Tel: +1 919 699 9657
 
-## <a name="Bio"></a>Bio
+### <a name="Bio"></a>Bio
 Mingyuhui Liu (Jane)
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf">Resume</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/刘明宇汇_中文版.pdf">Resume(Chinese中文版简历)</a></li>
+          <li><a href="https://mingyuhuiliu.github.io/">Github</a></li>
           <li><a href="https://www.linkedin.com/in/mingyuhuiliu/">LinkedIn</a></li>
       </ul>
   </div>
