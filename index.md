@@ -5,6 +5,13 @@ description:
 keywords: Data analytics
 ---
 
+## <a name="ContactMe"></a>Contact Me
+Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
+Tel: +1 919 699 9657
+
+## <a name="Bio"></a>Bio
+Mingyuhui Liu (Jane)
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
