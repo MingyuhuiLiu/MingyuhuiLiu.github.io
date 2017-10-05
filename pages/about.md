@@ -1,23 +1,28 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU, who is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China.
 ---
 
 #### <a name="currentposition"></a>current position
 GWU MS candidate in Data Analytics
+Candidate of CFA I
 
+#### <a name="Interests"></a>interests
+Technology/Management Consulting
+Financial Industry
+
+#### <a name="education"></a>ecucation
+Duke University | Master of Environmental Management
+Xi'an Jiaotong University | Bachelor of Engineering (Energy Power System and Automation)
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
+
 
 
 #### <a name="researchbackground"></a>research background
 {Insert text here}
 
-
-#### <a name="education"></a>ecucation
-{Insert text here}
 
 
 #### <a name="cvandresume"></a>cv and resume
