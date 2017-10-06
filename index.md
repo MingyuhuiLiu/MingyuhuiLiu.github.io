@@ -1,9 +1,11 @@
 ---
 layout: frontpage
-title: Mingyuhui Liu(Jane) <img src="assets/MingyuhuiLiu.jpg" alt="R/Jane" style="float:center;width:110px;height:110px;">
+title: Mingyuhui Liu(Jane)
 description: 
 keywords: Data analytics
 ---
+
+<img src="assets/MingyuhuiLiu.jpg" alt="R/Jane" style="float:center;width:110px;height:110px;">
 
 ### <a name="Bio"></a>Bio
 <div class="navbar">
@@ -23,6 +25,8 @@ Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also hol
 Jane's main interest lies in using her data analytics skillz to succeed in consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. 
 
 For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "About Me", or simply click on the links above!
+
+During her leisure time, Jane loves traveling and Sports, especially soccer. She is an enthusiansm fan for FC Bayern Munich, Germany. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling and Bayern photos and stories!
 
 
 
