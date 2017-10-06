@@ -16,6 +16,7 @@ description: Photos and stories for FCB.
 
 ####  <a name="1"></a>05/19~05/21, 2017
 
+<img src="icons64/IMG_0931.JPG" alt="R/May1">
 
 
 ####  <a name="2"></a>06/16~06/18, 2017
