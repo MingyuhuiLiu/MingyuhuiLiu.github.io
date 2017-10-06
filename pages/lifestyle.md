@@ -4,7 +4,8 @@ title: Life Style
 description: Life Style
 ---
 
-<img src="Vienna.jpg" alt="R/Vienna" style="float:right;width:80px;height:80px;">
+<img src="Vienna.jpg" alt="R/Vienna" style="float:left;width:100px;height:80px;"> 
+<img src="Allianz1.JPG" alt="R/A1" style="width:100px;height:80px;">
 
 <div class="navbar">
     <div class="navbar-inner">
@@ -62,6 +63,6 @@ description: Life Style
  * Studying
 
 #### <a name="XJTU"></a>西安交通大学
-  * 校园
+  校园
   
-  * 青春
+  青春
