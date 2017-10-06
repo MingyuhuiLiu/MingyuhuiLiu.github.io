@@ -15,9 +15,9 @@ description: overview
   * Financial Industry
 
 #### <a name="education"></a>Education
- * Duke University | Master of Environmental Management
+ * Duke University, Master of Environmental Management '17
 
- * Xi'an Jiaotong University | Bachelor of Engineering (Energy Power System and Automation)
+ * Xi'an Jiaotong University, Bachelor of Engineering (Energy Power System and Automation) '15
 
 #### <a name="previousposition"></a>Previous positions
  * 05/2017 - 08/2017 Intern: United Nations Economic Commission for Europe      Geneva, Switzerland
