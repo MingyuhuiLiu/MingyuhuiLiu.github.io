@@ -29,7 +29,7 @@ description: Life Style
 
 #### <a name="FCBayernMunich"></a>[Mia san Mia-FC Bayern Munich](https://mingyuhuiliu.github.io/pages/FCBayernMunich.html)
 
-<img src="Allianz1.JPG" alt="R/A1" style="width:240px;height:220px;">
+<img src="Allianz1.JPG" alt="R/A1" style="width:280px;height:230px;">
 
 #### <a name="UnitedNations"></a>United Nations
  * United Nations, Geneva, Switzerland, 2017 Summer Internship
