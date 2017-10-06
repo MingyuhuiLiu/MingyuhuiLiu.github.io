@@ -4,12 +4,15 @@ title: Life Style
 description: Life Style
 ---
 
+<img src="/Vienna.JPG" alt="R/Vienna" style="float:right;width:80px;height:80px;">
+
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#FCBayernMunich">FC Bayern Munich</a></li>
             <li><a href="#UnitedNations">United Nations</a></li>
             <li><a href="#Pandas">Pandas</a></li>
+            <li><a href="#USA">USA</a></li>
             <li><a href="#Europe">Europe</a></li>
             <li><a href="#Duke">Duke</a></li>
             <li><a href="#HongKong">Hong Kong</a></li>
@@ -24,14 +27,19 @@ description: Life Style
  * 06/16 ~ 06/18, 2017
  
  * 07/31 ~ 08/03, 2017
- 
-#### <a name="Pandas"></a>Pandas
- * Chengdu Giant Panda Research Base
 
 #### <a name="UnitedNations"></a>United Nations
  * United Nations, Geneva, Switzerland, 2017 Summer Internship
  
  * People, 2017 Summer
+
+#### <a name="Pandas"></a>Pandas
+ * Chengdu Giant Panda Research Base
+
+#### <a name="USA"></a>USA
+ * 2016 Winter
+ 
+ * 2016 Summer
 
 #### <a name="Europe"></a>Europe
  * Switzerland
@@ -47,6 +55,11 @@ description: Life Style
  * Austria
  
  * Czech Republic
+
+#### <a name="HongKong"></a>Hong Kong
+ * Traveling
+ 
+ * Studying
 
 #### <a name="XJTU"></a>西安交通大学
   * 校园
