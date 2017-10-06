@@ -6,12 +6,6 @@ keywords: Data analytics
 ---
 
 ### <a name="Bio"></a>Bio
-Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
-
-Jane's main interest lies in using her data analytics skillz to succeed in consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. 
-
-For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "About", or simply click on the following links!
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -23,6 +17,14 @@ For more information, please click [here](https://mingyuhuiliu.github.io/pages/a
       </ul>
   </div>
 </div>
+
+Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
+
+Jane's main interest lies in using her data analytics skillz to succeed in consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. 
+
+For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "About", or simply click on the links above!
+
+
 
 ### <a name="ContactMe"></a>Contact Me
 Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
