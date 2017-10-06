@@ -27,7 +27,7 @@ Jane's main interest lies in using her data analytics skillz to succeed in consu
 
 For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "About Me" for a quick walk-down bullet points, or simply click on the links above!
 
-During her leisure time, Jane loves traveling and Sports, especially soccer. She is an enthusiansm fan for FC Bayern Munich, Germany. She also volunteers in Chengdu Giant Panda Research Base when she goes back to her home tonw in Chengdu, Sichuan, China. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Bayern-Loving photos and stories!
+During her leisure time, Jane loves traveling and Sports, especially soccer. She is a hard-core fan for FC Bayern Munich, Germany. She also volunteers in Chengdu Giant Panda Research Base when she goes back to her hometown in Chengdu, Sichuan, China. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Bayern-Loving photos and stories!
 
 
 ### <a name="ContactMe"></a>Contact Me
