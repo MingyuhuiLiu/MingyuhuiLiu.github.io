@@ -48,11 +48,11 @@
 
 header {color: #FFFFFF; background: #154360; padding: 10px}
 footer {background: #aaa;color:white;}
-.navtier1 {color: #154360; background:#AED6F1}
+.nav {color: #154360; background:#AED6F1}
 
 
 @media all and (min-width: 768px) {
-    .navtier1{text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
+    .nav{text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
     .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
     footer {-webkit-order:3;order:3;}
 }
@@ -73,7 +73,7 @@ footer {background: #aaa;color:white;}
     <div class="navbar">
         <div class="flex-container">
           <!--<a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>-->
-          <ul class="navtier1">
+          <ul class="nav">
               <li><a href="{{ BASE_PATH }}/pages/about.html">About Me</a></li>
               <li><a href="{{ BASE_PATH }}/pages/presentations.html">Presentations</a></li>
               <li><a href="{{ BASE_PATH }}/pages/courses.html">Courses</a></li>
