@@ -5,7 +5,7 @@ description:
 keywords: Data analytics
 ---
 
-<img src="assets/MingyuhuiLiu.jpg" alt="R/Jane" style="float:right;width:110px;height:110px;">
+<img src="assets/MingyuhuiLiu.jpg" alt="R/Jane" style="width:110px;height:110px;">
 
 ### <a name="Bio"></a>Self-summary
 <div class="navbar">
