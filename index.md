@@ -7,12 +7,13 @@ keywords: Data analytics
 
 <img src="assets/MingyuhuiLiu.jpg" alt="R/Jane" style="float:right;width:110px;height:110px;">
 
-### <a name="Bio"></a>Bio
+### <a name="Bio"></a>Self-summary
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf">Resume</a></li>
-          <li><a href="{{ BASE_PATH }}/assets/刘明宇汇_中文版.pdf">Resume(Chinese中文版简历)</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/刘明宇汇_中文版.pdf">中文版简历</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/刘明宇汇_中文版.pdf">CV中文加长</a></li>
           <li><a href="https://mingyuhuiliu.github.io/">Github</a></li>
           <li><a href="https://www.linkedin.com/in/mingyuhuiliu/">LinkedIn</a></li>
           <li><a href="https://youtu.be/uIQ4xyWlnv8">Vedio Clips</a></li>
@@ -24,7 +25,7 @@ Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also hol
 
 Jane's main interest lies in using her data analytics skillz to succeed in consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. 
 
-For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "About Me", or simply click on the links above!
+For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "About Me" for a quick walk-down bullet points, or simply click on the links above!
 
 During her leisure time, Jane loves traveling and Sports, especially soccer. She is an enthusiansm fan for FC Bayern Munich, Germany. She also volunteers in Chengdu Giant Panda Research Base when she goes back to her home tonw in Chengdu, Sichuan, China. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Bayern-Loving photos and stories!
 
