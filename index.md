@@ -7,8 +7,8 @@ keywords: Data analytics
 
 ### <a name="Bio"></a>Greetings from Jane!
 <div class="navbar">
-  <!--<div class="navbar-inner">-->
-      <ul class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf">Resume</a></li>
           <li><a href="{{ BASE_PATH }}/assets/刘明宇汇_中文版.pdf">中文版简历</a></li>
           <li><a href="{{ BASE_PATH }}/assets/刘明宇汇CV.pdf">CV中文加长</a></li>
@@ -16,7 +16,7 @@ keywords: Data analytics
           <li><a href="https://www.linkedin.com/in/mingyuhuiliu/">LinkedIn</a></li>
           <li><a href="https://youtu.be/uIQ4xyWlnv8">Vedio Clips</a></li>
       </ul>
-  <!--</div>-->
+  </div>
 </div>
 
 This website is desinged to give an insight of what Mingyuhui Liu(Jane)'s work as a Data Analytics student at George Washington University, DC, USA. It does not only show her resume-related skills for recruitment-seeking purpose, but also shows her passion for life beyond professional fields for her own records. She may also use the website to publish basic Python lessons when she is ready. 
@@ -62,7 +62,7 @@ During her leisure time, Jane loves traveling and Sports, especially soccer. She
 
 <div class="navbar">
   <div class="navbar-inner">
-      <ul class="navbar">
+      <ul class="nav">
           <li><a href="morefigs.html">see more figures</a></li>
       </ul>
   </div>
