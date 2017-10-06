@@ -5,8 +5,6 @@ description:
 keywords: Data analytics
 ---
 
-<img src="assets/MingyuhuiLiu.jpg" alt="R/Jane" style="width:110px;height:110px;">
-
 ### <a name="Bio"></a>Greetings from Jane!
 <div class="navbar">
   <div class="navbar-inner">
