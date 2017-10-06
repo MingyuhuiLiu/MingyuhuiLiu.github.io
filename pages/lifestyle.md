@@ -4,7 +4,7 @@ title: Life Style
 description: Life Style
 ---
 
-<img src="/Vienna.JPG" alt="R/Vienna" style="float:right;width:80px;height:80px;">
+<img src="Vienna.jpg" alt="R/Vienna" style="float:right;width:80px;height:80px;">
 
 <div class="navbar">
     <div class="navbar-inner">
