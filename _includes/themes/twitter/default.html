@@ -27,26 +27,59 @@
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
     
-        div { height:auto; }
-    .onecol { width:8.33%; float:left; }
-    .twocols { width:16.66%;  float:left; }
-    .threecols { width:25%;  float:left; }
-    .fourcols { width:33.33%;  float:left; }
-    .fivecols { width:41.66%;  float:left; }
-    .sixcols { width:50%;  float:left; }
+<style> 
+.flex-container {
+    display: -webkit-flex;
+    display: flex;  
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+.flex-container > * {
+    padding: 15px;
+    -webkit-flex: 1 100%;
+    flex: 1 100%;
+}
+
+.article {
+    text-align: left;
+}
+
+header {background: black;color:white;}
+footer {background: #aaa;color:white;}
+.nav {background:#eee;}
+
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+.nav ul a {
+    text-decoration: none;
+}
+
+@media all and (min-width: 768px) {
+    .nav {text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
+    .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
+    footer {-webkit-order:3;order:3;}
+}
+</style>
+<!--      div { height:auto; }
     .sevencols { width:58.33%;  float:left; }
     .eightcols { width:66.66%;  float:left; }
-    .ninecols { width:75%; float:left;  }
-    .tencols { width:83.33%;  float:left; }
-    .elevencols { width:91.66%;  float:left; }
     .allcols { width:100%;  float:left; }
-  
+  -->
     
   </head>
+  
+  <header>
+  <h1>Mingyuhui Liu (Jane)</h1>
+</header>
+  
     <body>      
     <div class="navbar">
       <div class="navbar-inner">
-        <div class="container allcols">
+        <div class="flex-container">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
               <li><a href="{{ BASE_PATH }}/pages/about.html">About Me</a></li>
@@ -55,14 +88,14 @@
               <li><a href="{{ BASE_PATH }}/pages/software.html">Toolkit</a></li>
               <li><a href="{{ BASE_PATH }}/pages/resources.html">Resources</a></li>
               <li><a href="{{ BASE_PATH }}/pages/lifestyle.html">Life Style</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/contact.html">Contact Me</a></li>
               <li><a href="{{ BASE_PATH }}/pages/assignments.html">Assignments</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/contact.html">Contact Me</a></li>
           </ul>
         </div>
       </div>
     </div>
 
-    <div class="container allcols">
+    <div class="flex-container">
 
       <div class="content">
         {{ content }}
