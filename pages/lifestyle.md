@@ -5,11 +5,12 @@ description: Life Style
 ---
 
 <img src="Vienna.jpg" alt="R/Vienna" style="float:left;width:100px;height:80px;"> 
-<img src="Allianz1.JPG" alt="R/A1" style="width:100px;height:80px;">
-<img src="Allianz2.JPG" alt="R/A1" style="width:100px;height:80px;">
-<img src="Chicago1.JPG" alt="R/A1" style="width:100px;height:80px;">
-<img src="Rome1.JPG" alt="R/A1" style="width:100px;height:80px;">
-<img src="YellowStone1.JPG" alt="R/A1" style="width:100px;height:80px;">
+<img src="Allianz1.JPG" alt="R/A1" style="width:97px;height:80px;">
+<img src="Allianz2.JPG" alt="R/A1" style="width:97px;height:80px;">
+<img src="Chicago1.JPG" alt="R/A1" style="width:97px;height:80px;">
+<img src="Rome1.JPG" alt="R/A1" style="width:97px;height:80px;">
+<img src="YellowStone1.JPG" alt="R/A1" style="width:97px;height:80px;">
+<img src="UN.JPG" alt="R/A1" style="width:97px;height:80px;">
 
 <div class="navbar">
     <div class="navbar-inner">
