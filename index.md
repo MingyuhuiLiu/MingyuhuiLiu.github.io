@@ -10,7 +10,7 @@ Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also hol
 
 Jane's main interest lies in using her data analytics skillz to succeed in consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. 
 
-For more information, please go to "About", or simply click on the following links!
+For more information, please go to * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb), or simply click on the following links!
 
 <div class="navbar">
   <div class="navbar-inner">
