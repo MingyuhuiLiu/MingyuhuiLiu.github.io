@@ -16,9 +16,7 @@ US: +1 919-699-9657
 China: +86 13980081819
 
 
-##### <a name="Address"></a>Address
-USA:
-
+##### <a name="Address"></a>US Address
 School of Engineering and Applied Sciences
 
 800 22nd St NW
@@ -27,10 +25,7 @@ Washington, DC 20052
 
 USA
 
-
-
-China:
-
+##### <a name="Address"></a>国内通信地址
 四川省成都市高升桥南街8号
 
 四川，成都，610041
