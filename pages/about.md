@@ -42,9 +42,9 @@ description: overview
 #### <a name="cvandresume"></a>cv and resume
  * [Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf)
 
- * [ChineseResume中文版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇_中文版)
+ * [ChineseResume中文版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇_中文版.pdf)
 
- * [ChineseCV中文版加长版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇CV)
+ * [ChineseCV中文版加长版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇CV.pdf)
 
 ---
 
