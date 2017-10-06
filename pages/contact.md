@@ -30,4 +30,4 @@ USA
 
 或者扫描二维码：
 
-<img src="{{ BASE_PATH }}/assets/pics/WeChat.jpg" alt="Wechat" style="width:400px;height:600px;">
+<img src="{{ BASE_PATH }}/assets/pics/Wechat.jpg" alt="Wechat" style="width:400px;height:600px;">
