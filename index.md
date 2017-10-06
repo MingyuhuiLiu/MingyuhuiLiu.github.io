@@ -19,6 +19,7 @@ For more information, please click [here](https://mingyuhuiliu.github.io/pages/a
           <li><a href="{{ BASE_PATH }}/assets/刘明宇汇_中文版.pdf">Resume(Chinese中文版简历)</a></li>
           <li><a href="https://mingyuhuiliu.github.io/">Github</a></li>
           <li><a href="https://www.linkedin.com/in/mingyuhuiliu/">LinkedIn</a></li>
+          <li><a href="https://youtu.be/uIQ4xyWlnv8">Vedio Clips</a></li>
       </ul>
   </div>
 </div>
