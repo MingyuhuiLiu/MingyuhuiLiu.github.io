@@ -17,7 +17,7 @@ China: +86 13980081819
 
 
 ##### <a name="Address"></a>Address
-* USA:
+USA:
 
 School of Engineering and Applied Sciences
 
@@ -28,7 +28,8 @@ Washington, DC 20052
 USA
 
 
-* China:
+
+China:
 
 四川省成都市高升桥南街8号
 
