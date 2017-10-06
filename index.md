@@ -30,11 +30,6 @@ For more information, please click [here](https://mingyuhuiliu.github.io/pages/a
 During her leisure time, Jane loves traveling and Sports, especially soccer. She is a hard-core fan for FC Bayern Munich, Germany. She also volunteers in Chengdu Giant Panda Research Base when she goes back to her hometown in Chengdu, Sichuan, China. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Bayern-Loving photos and stories!
 
 
-### <a name="ContactMe"></a>Contact Me
-Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
-
-Tel: +1 919 699 9657
-
 ### <a name="Portfolio"></a>Portfolio
 
 <table class="wide">
@@ -73,3 +68,9 @@ Tel: +1 919 699 9657
   </div>
 </div>
 
+### <a name="ContactMe"></a>Contact Me
+Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
+
+Tel: +1 919 699 9657
+
+Address: Washington DC, 20005, USA
