@@ -4,7 +4,7 @@ title: Life Style
 description: Life Style
 ---
 
-<img src="Vienna.jpg" alt="R/Vienna" style="float:left;width:98px;height:75px;"> 
+<img src="Vienna.jpg" alt="R/Vienna" style="width:98px;height:75px;"> 
 <img src="Allianz1.JPG" alt="R/A1" style="width:95px;height:75px;">
 <img src="Allianz2.JPG" alt="R/A1" style="width:95px;height:75px;">
 <img src="Chicago1.JPG" alt="R/A1" style="width:95px;height:75px;">
@@ -29,7 +29,7 @@ description: Life Style
 
 #### <a name="FCBayernMunich"></a>[Mia san Mia-FC Bayern Munich](https://mingyuhuiliu.github.io/pages/FCBayernMunich.html)
 
-<img src="Allianz1.JPG" alt="R/A1" style="width:95px;height:75px;">
+<img src="Allianz1.JPG" alt="R/A1" style="width:240px;height:220px;">
 
 #### <a name="UnitedNations"></a>United Nations
  * United Nations, Geneva, Switzerland, 2017 Summer Internship
