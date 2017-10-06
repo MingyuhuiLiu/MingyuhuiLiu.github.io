@@ -8,7 +8,7 @@ keywords: Data analytics
 ### <a name="Bio"></a>Greetings from Jane!
 <div class="navbar">
   <!--<div class="navbar-inner">-->
-      <ul class="nav">
+      <ul class="navbar">
           <li><a href="{{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf">Resume</a></li>
           <li><a href="{{ BASE_PATH }}/assets/刘明宇汇_中文版.pdf">中文版简历</a></li>
           <li><a href="{{ BASE_PATH }}/assets/刘明宇汇CV.pdf">CV中文加长</a></li>
@@ -32,7 +32,7 @@ During her leisure time, Jane loves traveling and Sports, especially soccer. She
 
 ### <a name="Portfolio"></a>Portfolio
 
-<table class="wide">
+<table class="narrow">
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
@@ -62,7 +62,7 @@ During her leisure time, Jane loves traveling and Sports, especially soccer. She
 
 <div class="navbar">
   <div class="navbar-inner">
-      <ul class="nav">
+      <ul class="navbar">
           <li><a href="morefigs.html">see more figures</a></li>
       </ul>
   </div>
