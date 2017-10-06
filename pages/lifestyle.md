@@ -5,12 +5,12 @@ description: Life Style
 ---
 
 <img src="Vienna.jpg" alt="R/Vienna" style="float:left;width:100px;height:80px;"> 
-<img src="Allianz1.JPG" alt="R/A1" style="width:97px;height:80px;">
-<img src="Allianz2.JPG" alt="R/A1" style="width:97px;height:80px;">
-<img src="Chicago1.JPG" alt="R/A1" style="width:97px;height:80px;">
-<img src="Rome1.JPG" alt="R/A1" style="width:97px;height:80px;">
-<img src="YellowStone1.JPG" alt="R/A1" style="width:97px;height:80px;">
-<img src="UN.JPG" alt="R/A1" style="width:97px;height:80px;">
+<img src="Allianz1.JPG" alt="R/A1" style="width:95px;height:75px;">
+<img src="Allianz2.JPG" alt="R/A1" style="width:95px;height:75px;">
+<img src="Chicago1.JPG" alt="R/A1" style="width:95px;height:75px;">
+<img src="Rome1.JPG" alt="R/A1" style="width:95px;height:75px;">
+<img src="YellowStone1.JPG" alt="R/A1" style="width:95px;height:75px;">
+<img src="UN.JPG" alt="R/A1" style="width:95px;height:75px;">
 
 <div class="navbar">
     <div class="navbar-inner">
@@ -28,7 +28,7 @@ description: Life Style
 </div>
 
 #### <a name="FCBayernMunich"></a>Mia san Mia-FC Bayern Munich
- * [05/19 ~ 05/21, 2017]
+ * [05/19 ~ 05/21, 2017](
  
  * [06/16 ~ 06/18, 2017]
  
