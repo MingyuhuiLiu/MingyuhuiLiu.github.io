@@ -25,6 +25,7 @@ For more information, please click [here](https://mingyuhuiliu.github.io/pages/a
 
 ### <a name="ContactMe"></a>Contact Me
 Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
+
 Tel: +1 919 699 9657
 
 ### <a name="Portfolio"></a>Portfolio
