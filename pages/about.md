@@ -44,7 +44,7 @@ description: overview
 
  * [ChineseResume中文版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇_中文版)
 
- * [ChineseCV中文版加长版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇_中文版)
+ * [ChineseCV中文版加长版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇CV)
 
 ---
 
