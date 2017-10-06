@@ -1,7 +1,6 @@
 ---
 layout: page
 title: about
-<img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
 description: overview
 ---
 
