@@ -5,14 +5,14 @@ description: overview
 ---
 
 #### <a name="currentposition"></a>Current position
-  GWU MS candidate in Data Analytics
+ * GWU MS candidate in Data Analytics
 
-  Candidate of CFA I
+ * Candidate of CFA I
 
 #### <a name="Interests"></a>Career Interests
-  Technology/Management Consulting
+  *Technology/Management Consulting
 
-  Financial Industry
+  *Financial Industry
 
 #### <a name="education"></a>Education
   Duke University | Master of Environmental Management
