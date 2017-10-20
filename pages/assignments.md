@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results](https://github.com/MingyuhuiLiu/LabAssignment.github.io/blob/master/EMSE6992_Assignments/HW1.ipynb)| [assignment1 repositiory]()
+[assignment1 results](https://github.com/MingyuhuiLiu/LabAssignment.github.io/blob/master/EMSE6992_Assignments/Assignment%201%20Results.ipynb)| [assignment1 repositiory]()
 
 ---
 
