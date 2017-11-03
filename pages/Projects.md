@@ -8,8 +8,14 @@ description: Student's Presentations in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; Download presentation:
 [Symposium ![](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MP.pdf)
 
-<img src="Allianz1.JPG" alt="R/A1" style="width:280px;height:230px;">
+<br/>&nbsp; &nbsp; &nbsp; EDGAR Dataset Energy Sector SO2 Emission Estimation, Summer 2000:
+<br/><img src="Edgar2000ENESO2.JPG" alt="R/A1" style="width:280px;height:230px;">
+
+<br/>&nbsp; &nbsp; &nbsp; ECLIPSE Dataset Energy Sector SO2 Emission Estimation, Summer 2000:
+<br/><img src="Eclipse2000ENESO2.JPG" alt="R/A1" style="width:280px;height:230px;">
 &nbsp; &nbsp; &nbsp; 
+
+
 
 #### 2.Socio-economic and Environmental Consciousness Effects on Pro-environmental Attitudes
 <br/>&nbsp; &nbsp; &nbsp; Download R file:
