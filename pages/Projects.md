@@ -9,10 +9,10 @@ description: Student's Presentations in Data Analytics
 [Symposium ![](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MP.pdf)
 
 <br/>&nbsp; &nbsp; &nbsp; EDGAR Dataset Energy Sector SO2 Emission Estimation, Summer 2000:
-<br/><img src="Edgar2000ENESO2.JPG" alt="R/A1" style="width:280px;height:230px;">
+<br/><img src="Edgar2000ENESO2.png" alt="R/A1" style="width:280px;height:230px;">
 
 <br/>&nbsp; &nbsp; &nbsp; ECLIPSE Dataset Energy Sector SO2 Emission Estimation, Summer 2000:
-<br/><img src="Eclipse2000ENESO2.JPG" alt="R/A1" style="width:280px;height:230px;">
+<br/><img src="ECLIPSE2000ENESO2.png" alt="R/A1" style="width:280px;height:230px;">
 &nbsp; &nbsp; &nbsp; 
 
 
