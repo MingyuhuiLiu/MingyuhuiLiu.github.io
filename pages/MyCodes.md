@@ -5,12 +5,9 @@ description: Student's Presentations in Data Analytics
 ---
 
 
-###  2017
-
-#### Socio-economic and Environmental Consciousness Effects on Pro-environmental Attitudes
+#### 1.Socio-economic and Environmental Consciousness Effects on Pro-environmental Attitudes
 <br/>&nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
+[R ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/GSSData.R)
 &nbsp; &nbsp; &nbsp; 
 
 ---
