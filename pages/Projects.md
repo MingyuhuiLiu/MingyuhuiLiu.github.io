@@ -16,5 +16,6 @@ description: Student's Presentations in Data Analytics
 [Sample Codes ![](icons16/R-icon.png)]({{ BASE_PATH }}/assets/GSSData.R)
 &nbsp; &nbsp; &nbsp; 
 
+<br/>&nbsp; &nbsp; &nbsp; Observed WTP Vs Predicted WTP in Generalized Joint Attribute Model (GJAM):
 <img src="ObVsPr.png" alt="R/A1" style="width:280px;height:230px;">
 ---
