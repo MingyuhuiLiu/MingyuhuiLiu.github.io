@@ -63,8 +63,6 @@ Results | Repository
 ##### <a name="deeplearning"></a>machine learning part1
 * [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
-{Add description of example an assignment here}
-
 
 ##### <a name="machinelearning"></a>machine learning part2
 * [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
@@ -74,7 +72,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+| [assignment3 results]()| [assignment3 repositiory](https://github.com/MingyuhuiLiu/MingyuhuiLiu.github.io/blob/master/Assignments/Assignment%203_Result.ipynb)|
 
 ---
 
