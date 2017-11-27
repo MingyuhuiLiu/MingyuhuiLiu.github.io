@@ -6,7 +6,7 @@ description: Student's Presentations in Data Analytics
 
 #### 1.King County House Price Prediction: A Support Vector Machine Approach
 <br/>&nbsp; &nbsp; &nbsp; In-progress Python (Updated on 11/26/2017): 
-[ Python ]({{ BASE_PATH }}/assets/MP.pdf)
+[ Python ](1126Updated.ipynb)
 
 &nbsp; &nbsp; &nbsp; Scatter Matrix for Main Variables
 <br/><img src="ScatterMatrixMain.png" alt="R/A1" style="width:280px;height:230px;">
