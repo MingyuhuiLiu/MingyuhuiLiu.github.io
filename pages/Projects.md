@@ -9,11 +9,11 @@ description: Student's Presentations in Data Analytics
 [ Python ]({{ BASE_PATH }}/assets/MP.pdf)
 
 &nbsp; &nbsp; &nbsp; Scatter Matrix for Main Variables
-<br/><img src="{{ BASE_PATH }}/assets/ScatterMatrix_main.png" alt="R/A1" style="width:280px;height:230px;">
+<br/><img src="ScatterMatrix_main.png" alt="R/A1" style="width:280px;height:230px;">
 &nbsp; &nbsp; &nbsp; 
 
 &nbsp; &nbsp; &nbsp; Clustering based on Year
-<br/><img src="{{ BASE_PATH }}/assets/Clustering.png" alt="R/A1" style="width:280px;height:230px;">
+<br/><img src="Clustering.png" alt="R/A1" style="width:280px;height:230px;">
 
 #### 2.Master Project: Comparison of Global Emission Inventories: Using Examples from US and China
 <br/>&nbsp; &nbsp; &nbsp; Download presentation:
