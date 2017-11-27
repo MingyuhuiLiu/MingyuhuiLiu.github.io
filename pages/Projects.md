@@ -9,7 +9,7 @@ description: Student's Presentations in Data Analytics
 [ Python ]({{ BASE_PATH }}/assets/MP.pdf)
 
 &nbsp; &nbsp; &nbsp; Scatter Matrix for Main Variables
-<br/><img src="ScatterMatrix_main.png" alt="R/A1" style="width:280px;height:230px;">
+<br/><img src="ScatterMatrixMain.png" alt="R/A1" style="width:280px;height:230px;">
 &nbsp; &nbsp; &nbsp; 
 
 &nbsp; &nbsp; &nbsp; Clustering based on Year
