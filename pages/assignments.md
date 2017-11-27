@@ -54,7 +54,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| [assignment2 results]()| [assignment2 repositiory](https://github.com/MingyuhuiLiu/MingyuhuiLiu.github.io/blob/master/Assignments/Assignment%202%20Results.ipynb)|
 
 ---
 
