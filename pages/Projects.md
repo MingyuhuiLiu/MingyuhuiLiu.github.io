@@ -11,6 +11,9 @@ description: Student's Presentations in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; In-progress Python (Updated on 12/7/2017): 
 [ Python ](Final_Project_CapitalBike.ipynb)
 
+&nbsp; &nbsp; &nbsp; Model Visualization: Predicted Vs Test
+<br/><img src="image.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp;
 
 #### 2.King County House Price Prediction: A Support Vector Machine Approach
 <br/>&nbsp; &nbsp; &nbsp; In-progress Python (Updated on 11/26/2017): 
