@@ -8,6 +8,9 @@ description: Student's Presentations in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; Download: 
 [Download the Presentation](Final_Jane.pdf)
 
+<br/>&nbsp; &nbsp; &nbsp; In-progress Python (Updated on 12/7/2017): 
+[ Python ](Final_Project_CapitalBike.ipynb)
+
 
 #### 2.King County House Price Prediction: A Support Vector Machine Approach
 <br/>&nbsp; &nbsp; &nbsp; In-progress Python (Updated on 11/26/2017): 
