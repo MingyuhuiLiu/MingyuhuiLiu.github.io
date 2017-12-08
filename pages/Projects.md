@@ -9,7 +9,7 @@ description: Student's Presentations in Data Analytics
 [Download the Presentation](Final_Jane.pdf)
 
 <br/>&nbsp; &nbsp; &nbsp; In-progress Python (Updated on 12/7/2017): 
-[ Python ](Final_Project_CapitalBike.ipynb)
+[ Python Final](Final_Project_CapitalBike.ipynb)
 
 &nbsp; &nbsp; &nbsp; Model Visualization: Predicted Vs Test
 <br/><img src="image.png" alt="R/A1" style="width:280px;height:230px;">
