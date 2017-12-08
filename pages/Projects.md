@@ -4,7 +4,7 @@ title: Projects
 description: Student's Presentations in Data Analytics
 ---
 
-#### 1.Big Data Practicum: Capital Bikeshare
+#### 1.Business Intelligence: Capital Bikeshare Profit Growth
 <br/>&nbsp; &nbsp; &nbsp; Download: 
 [Download the Presentation](Final_Jane.pdf)
 
@@ -17,7 +17,7 @@ description: Student's Presentations in Data Analytics
 
 #### 2.King County House Price Prediction: A Support Vector Machine Approach
 <br/>&nbsp; &nbsp; &nbsp; Python (Updated on 12/7/2017): 
-[ Python ](Final.ipynb)
+[ Python ](Final_Project_HouseSale.ipynb)
 
 &nbsp; &nbsp; &nbsp; Scatter Matrix for Main Variables
 &nbsp; &nbsp; &nbsp;<br/><img src="ScatterMatrixMain.png" alt="R/A1" style="width:280px;height:230px;">
