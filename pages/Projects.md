@@ -12,7 +12,7 @@ description: Student's Presentations in Data Analytics
 [ Python Final](Final_Project_CapitalBike.ipynb)
 
 &nbsp; &nbsp; &nbsp; Model Visualization: Predicted Vs Test
-<br/><img src="image.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp; <br/><img src="image.png" alt="R/A1" style="width:400px;height:300px;">
 &nbsp; &nbsp; &nbsp;
 
 #### 2.King County House Price Prediction: A Support Vector Machine Approach
@@ -20,7 +20,7 @@ description: Student's Presentations in Data Analytics
 [ Python ](1126Updated.ipynb)
 
 &nbsp; &nbsp; &nbsp; Scatter Matrix for Main Variables
-<br/><img src="ScatterMatrixMain.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp;<br/><img src="ScatterMatrixMain.png" alt="R/A1" style="width:280px;height:230px;">
 &nbsp; &nbsp; &nbsp; 
 
 &nbsp; &nbsp; &nbsp; Clustering based on Year
@@ -32,11 +32,11 @@ description: Student's Presentations in Data Analytics
 
 <br/>&nbsp; &nbsp; &nbsp; EDGAR Dataset Energy Sector SO2 Emission Estimation, Summer 2000:<br/>
 &nbsp; &nbsp; &nbsp; Unit: kton/yr
-<br/><img src="Edgar2000ENESO2.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp;<br/><img src="Edgar2000ENESO2.png" alt="R/A1" style="width:280px;height:230px;">
 
 <br/>&nbsp; &nbsp; &nbsp; ECLIPSE Dataset Energy Sector SO2 Emission Estimation, Summer 2000:<br/>
 &nbsp; &nbsp; &nbsp; Unit: kton/yr
-<br/><img src="ECLIPSE2000ENESO2.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp;<br/><img src="ECLIPSE2000ENESO2.png" alt="R/A1" style="width:280px;height:230px;">
 &nbsp; &nbsp; &nbsp; 
 
 
@@ -47,11 +47,11 @@ description: Student's Presentations in Data Analytics
 &nbsp; &nbsp; &nbsp; 
 
 <br/>&nbsp; &nbsp; &nbsp; Observed WTP Vs Predicted WTP in Generalized Joint Attribute Model (GJAM):
-<br/><img src="ObVsPr.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp;<br/><img src="ObVsPr.png" alt="R/A1" style="width:280px;height:230px;">
 
 <br/>&nbsp; &nbsp; &nbsp; GJAM Sensitivities:
-<br/><img src="Sensitivity.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp;<br/><img src="Sensitivity.png" alt="R/A1" style="width:280px;height:230px;">
 
 <br/>&nbsp; &nbsp; &nbsp; 95% Posteriors Sample: Cohort
-<br/><img src="PosteriorCohort.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp; <br/><img src="PosteriorCohort.png" alt="R/A1" style="width:280px;height:230px;">
 ---
