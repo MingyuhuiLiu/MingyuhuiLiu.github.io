@@ -11,6 +11,9 @@ description: Student's Presentations in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; Python (Updated on 12/7/2017): 
 [ Python Final](Final_Project_CapitalBike.ipynb)
 
+<br/>&nbsp; &nbsp; &nbsp; Python Code Preview in Github:
+[Python](https://github.com/MingyuhuiLiu/MingyuhuiLiu.github.io/blob/master/pages/Final_Project_HouseSale.ipynb)
+
 &nbsp; &nbsp; &nbsp; Model Visualization: Predicted Vs Test
 &nbsp; &nbsp; &nbsp; <br/><img src="image.png" alt="R/A1" style="width:400px;height:300px;">
 &nbsp; &nbsp; &nbsp;
