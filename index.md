@@ -19,7 +19,7 @@ keywords: Data analytics
   </div>
 </div>
 
-This website is desinged to give an insight of Mingyuhui Liu(Jane)'s work as a Data Analytics student at George Washington University, DC, USA. It does not only show her resume-related skills for recruitment-seeking purpose, but also shows her passion for life beyond professional fields for her own records. She may also use the website to publish basic Python tutorials when she is ready. 
+This website is desinged to give an insight of Mingyuhui Liu(Jane)'s work as a Data Analytics student at George Washington University, DC, USA. It does not only show her resume-related skills for recruitment-seeking purpose, but also shows her passion for life beyond professional fields for her own records. 
 
 Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
 
