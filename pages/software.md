@@ -37,7 +37,7 @@ description: Mingyuhui Liu(Jane)'s Skillsets
 
 
 ### <a name="Python"></a>Python
-#### <a name="Visualization"></a>Visualization: Matplotlib(Matplotlib_Example.docx)
+#### <a name="Visualization"></a>Visualization: Matplotlib
 Visualization with Matplotlib.
 
 <br/>&nbsp; &nbsp; &nbsp;Download: [Matplotlib Example Graphs](Matplotlib_Example.pdf)
