@@ -27,7 +27,7 @@ description: Mingyuhui Liu(Jane)'s Skillsets
             <li><a href="#networksanalysis">Networks Analysis</a></li>
             <li><a href="#pca">PCA</a></li>
             <li><a href="#linear">Regression</a></li>
-            <li><a href="#webscraping">web scraping</a></li>
+            <li><a href="#webscraping">Web Scraping</a></li>
         </ul>
     </div>
 </div>
