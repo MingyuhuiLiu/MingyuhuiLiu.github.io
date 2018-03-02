@@ -12,13 +12,22 @@ description: Mingyuhui Liu(Jane)'s Skillsets
             <li><a href="#NoSQL">NoSQL</a></li>
             <li><a href="#R">R</a></li>
             <li><a href="#statistical">Statistics</a></li>
+        </ul>
+    </div>
+</div>
+
+---
+
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#statistical">Statistics</a></li>
             <li><a href="#NLTK">NLP</a></li>
             <li><a href="#SKLearn">Machine Learning</a></li>
-            <li><a href="#networksalanalysis">Networks Analysis</a></li>
+            <li><a href="#networksanalysis">Networks Analysis</a></li>
             <li><a href="#pca">PCA</a></li>
             <li><a href="#linear">Regression</a></li>
             <li><a href="#webscraping">web scraping</a></li>
-            <li><a href="#rpackages">R Packages</a></li>
         </ul>
     </div>
 </div>
@@ -37,7 +46,7 @@ Visualization with Matplotlib.
 
 [SKLearn Python](10-folds.ipynb)<br/>
 
---
+<br/>
 
 #### <a name="SKLearn"></a>SKLearn: Linear Regression with Categorical Variables
 Auto data: to determine what is influencing the MPG.
@@ -45,7 +54,9 @@ Auto data: to determine what is influencing the MPG.
 [Auto data](auto_mpg.data)
 [SKLearn Python](Auto_MPG.ipynb)<br/>
 
-#### <a name="nltk"></a>Natural Language Processing
+<br/>
+
+#### <a name="NLTK"></a>Natural Language Processing
 {Add description of example an library here}
 
 [keras example](http://groups.google.com/group/Rqtl-disc)
