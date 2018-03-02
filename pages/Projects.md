@@ -64,10 +64,14 @@ score results of your "pea metric" and select using your fitted distribution the
 ten percent of peas that outperform the others.
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel](Excel_PCA.xlsx)
 <br/>&nbsp; &nbsp; &nbsp;[Download the Report](PCA.pdf)
-<br/>&nbsp; &nbsp; &nbsp; Scree Plot and Loading Plot from MiniTab.
+
+<br/>
+
+Scree Plot and Loading Plot from MiniTab.
 &nbsp; &nbsp; &nbsp; <br/><img src="Scree.png" alt="R/A1" style="width:400px;height:300px;">
 &nbsp; &nbsp; &nbsp; <br/><img src="loading.png" alt="R/A1" style="width:400px;height:300px;">
-&nbsp; &nbsp; &nbsp;
+
+<br/>
 
 #### <a name="regression"></a>Regression
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel](Excel_Regression.xlsx)
