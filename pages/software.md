@@ -107,10 +107,10 @@ Ego networks for Twitter data.
 
 ### <a name="statistical"></a>Statistic Alanalysis
 #### <a name="pca"></a>Principle Component Aanalysis
-Project regarding PCA can be found [here]({{ BASE_PATH }}/pages/Projects.html/#statistical)
+Project regarding PCA can be found [here]("{{ BASE_PATH }}/pages/Projects.html/#statistical")
 <br/>
 #### <a name="linear"></a>[Linear Regression](http://www.rqtl.org)
-Project regarding PCA can be found [here]({{ BASE_PATH }}/pages/Projects.html)
+Project regarding PCA can be found [here]("{{ BASE_PATH }}/pages/Projects.html")
 <br/>
 
 ---
