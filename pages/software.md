@@ -23,22 +23,22 @@ description: Mingyuhui Liu(Jane)'s Skillsets
 
 
 ### <a name="Python"></a>Python
-#### <a name="Visualization"></a>[Visualization: Matplotlib Example Graphs](Matplotlib_Example.docx)
-{Add description of example an library here}
+#### <a name="Visualization"></a>[Visualization: Matplotlib Example Graphs.doc](Matplotlib_Example.docx)
+Visualization with Matplotlib.
 
-[Matplotlib Python Download](Visualization_Matplotlib.ipynb)
+[Matplotlib Python Download](Visualization_Matplotlib.ipynb)<br/>
 
 
 #### <a name="SKLearn"></a>SKLearn: Manually 10-folds Cross Validation
-{10-folds cross validation for SKLearn linear regression.}
+10-folds cross validation for SKLearn linear regression.
 
-[SKLearn Python](10-folds.ipynb)
+[SKLearn Python](10-folds.ipynb)<br/>
 
 #### <a name="SKLearn"></a>SKLearn: Linear Regression with Categorical Variables
-{Add description of example an library here}
+Auto data: to determine what is influencing the MPG.
 
 [Auto data](auto_mpg.data)
-[SKLearn Python](Auto_MPG.ipynb)
+[SKLearn Python](Auto_MPG.ipynb)<br/>
 
 #### <a name="qtl"></a>[keras](http://www.rqtl.org)
 {Add description of example an library here}
