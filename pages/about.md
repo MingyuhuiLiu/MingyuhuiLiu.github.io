@@ -13,7 +13,9 @@ description: overview
 
 ---
 #### <a name="currentposition"></a>Current position
- * GWU MS candidate in Data Analytics
+ * VP of GWU Consulting Club
+ 
+ * Member of GWU Business Analytics Club
 
  * Candidate of CFA I
 
