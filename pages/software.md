@@ -40,119 +40,95 @@ description: Mingyuhui Liu(Jane)'s Skillsets
 #### <a name="Visualization"></a>[Visualization: Matplotlib Example Graphs.doc](Matplotlib_Example.docx)
 Visualization with Matplotlib.
 
-[Matplotlib Python Download](Visualization_Matplotlib.ipynb)<br/>
+<br/>&nbsp; &nbsp; &nbsp;[Matplotlib Python Download](Visualization_Matplotlib.ipynb)<br/>
 
 <br/>
 
 #### <a name="SKLearn"></a>SKLearn: Manually 10-folds Cross Validation
 10-folds cross validation for SKLearn linear regression.
 
-[SKLearn Python](10-folds.ipynb)<br/>
+<br/>&nbsp; &nbsp; &nbsp;[SKLearn Python](10-folds.ipynb)<br/>
 
 <br/>
 
 #### <a name="SKLearn"></a>SKLearn: Linear Regression with Categorical Variables
 Auto data: to determine what is influencing the MPG.
 
-[Auto data](auto_mpg.data)
-[SKLearn Python](Auto_MPG.ipynb)<br/>
+<br/>&nbsp; &nbsp; &nbsp;[Auto data](auto_mpg.data)
+<br/>&nbsp; &nbsp; &nbsp;[SKLearn Python](Auto_MPG.ipynb)<br/>
 
 <br/>
 
 #### <a name="NLTK"></a>Natural Language Processing
-{Add description of example an library here}
+Text Data processing with NLTK package in Python.
 
-[keras example](http://groups.google.com/group/Rqtl-disc)
-[keras repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-### <a name="machinelearning"></a>machine learning
-{Add description of example an library here}
-
-#### <a name="qtl"></a>[mlpy](http://www.rqtl.org)
-[mlpy example](http://groups.google.com/group/Rqtl-disc)
-[mlpy repository](http://groups.google.com/group/Rqtl-disc)
-
-#### <a name="qtl"></a>[sci-kit-learn](http://www.rqtl.org)
-{Add description of example an library here}
-
-[scikit-learn](http://groups.google.com/group/Rqtl-disc)
-[scikit-learn](http://groups.google.com/group/Rqtl-disc)
+<br/>&nbsp; &nbsp; &nbsp;[keras example](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
 ### <a name="SQL"></a>SQL
-#### <a name="sql"></a>[networkx](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="sql"></a>MySQL
+I used MySQL Workbench and pymysql in Python to connect to and work on the data in the Workbench.
+Since there is a issue of key for the connection, I could not post the complete version here.
+Please kindly refer to the partial code:
 
-[networkx example](http://groups.google.com/group/Rqtl-disc)
-[networkx repository](http://groups.google.com/group/Rqtl-disc)
-
+<br/>&nbsp; &nbsp; &nbsp;[pymysql]()
+<br/>
 
 ---
 
 ### <a name="NoSQL"></a>NoSQL
-#### <a name="Dynamo"></a>[Dynamo](http://www.rqtl.org)
-{Add description of example an library here}
+Since there are issues of keys for the connection and access, I could not post the complete versions here.
 
-[numpy examples](http://groups.google.com/group/Rqtl-disc)
-[numpy repository](http://groups.google.com/group/Rqtl-disc)
+#### <a name="Dynamo"></a>Dynamo
+I use AWS for Dynamo, and boto in Python to connect. 
+Please find the partial code can be found here:
+
+<br/>&nbsp; &nbsp; &nbsp;[boto in Python]()
+<br/>
 
 
-#### <a name="MongoDB"></a>[MongoDB](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="MongoDB"></a>MongoDB
+I use Boto 3T for MongoDB and pymongo in Python to connect. 
+Please find the partial code can be found here:
 
-[scipy example](http://groups.google.com/group/Rqtl-disc)
-[scipy repository](http://groups.google.com/group/Rqtl-disc)
-
+<br/>&nbsp; &nbsp; &nbsp;[pymongo]()
+<br/>
 
 ---
 ### <a name="R"></a>R
-#### <a name="networksanalysis"></a>[Network Analysis](http://www.rqtl.org)
+#### <a name="networksanalysis"></a>Network Analysis
 {Add description of example an library here}
 
-[Ego Networks](http://groups.google.com/group/Rqtl-disc)
-[nlkt repository](http://groups.google.com/group/Rqtl-disc)
-
-
-#### <a name="qtl"></a>[gensim](http://www.rqtl.org)
-{Add description of example an library here}
-
-[gensim example](http://groups.google.com/group/Rqtl-disc)
-[gensim repository](http://groups.google.com/group/Rqtl-disc)
-
+<br/>&nbsp; &nbsp; &nbsp;[Ego Networks data files]()
+<br/>&nbsp; &nbsp; &nbsp;[R codes]()
+<br/>
 
 ---
 
 ### <a name="statistical"></a>Statistic Alanalysis
-#### <a name="pca"></a>[PCA](http://www.rqtl.org)
-{Add description of example an library here}
-
-[statsmodels example](http://groups.google.com/group/Rqtl-disc)
-[statsmodels repository](http://groups.google.com/group/Rqtl-disc)
-
+#### <a name="pca"></a>Principle Component Aanalysis
+Project regarding PCA can be found [here]()
+<br/>
 #### <a name="linear"></a>[Linear Regression](http://www.rqtl.org)
-{Add description of example an library here}
-
-[statsmodels example](http://groups.google.com/group/Rqtl-disc)
-[statsmodels repository](http://groups.google.com/group/Rqtl-disc)
+Project regarding PCA can be found [here]()
+<br/>
 
 ---
 
 ### <a name="webscraping"></a>web scraping
-#### <a name="qtl"></a>[beautifulsoup](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>BeautifulSoup
+Web scraping with beautifulsoup in Python.
 
-[beautifulsoup example](http://groups.google.com/group/Rqtl-disc)
-[beautifulsoup repository](http://groups.google.com/group/Rqtl-disc)
+<br/>&nbsp; &nbsp; &nbsp;[beautifulsoup example]()
 
+<br/>
 
-#### <a name="qtl"></a>[API](http://www.rqtl.org)
-{Add description of example an library here}
+#### <a name="qtl"></a>API
+Twitter API.
 
-[scrapy example](http://groups.google.com/group/Rqtl-disc)
-[scrapy repository](http://groups.google.com/group/Rqtl-disc)
+<br/>&nbsp; &nbsp; &nbsp;[API example]()
+
 
 
 
