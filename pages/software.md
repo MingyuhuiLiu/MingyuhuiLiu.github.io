@@ -7,6 +7,7 @@ description: Mingyuhui Liu(Jane)'s Skillsets
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a>Tools:</a></li>
             <li><a href="#Python">Python</a></li>
             <li><a href="#SQL">SQL</a></li>
             <li><a href="#NoSQL">NoSQL</a></li>
@@ -21,6 +22,7 @@ description: Mingyuhui Liu(Jane)'s Skillsets
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a>Skills:</a></li>
             <li><a href="#statistical">Statistics</a></li>
             <li><a href="#NLTK">NLP</a></li>
             <li><a href="#SKLearn">Machine Learning</a></li>
