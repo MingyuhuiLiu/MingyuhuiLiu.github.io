@@ -95,7 +95,7 @@ Auto data: to determine what is influencing the MPG.
 
 ---
 ### <a name="R"></a>R
-#### <a name="networkanalysis"></a>[Network Analysis](http://www.rqtl.org)
+#### <a name="networksanalysis"></a>[Network Analysis](http://www.rqtl.org)
 {Add description of example an library here}
 
 [Ego Networks](http://groups.google.com/group/Rqtl-disc)
