@@ -10,11 +10,13 @@ description: Mingyuhui Liu(Jane)'s Skillsets
             <li><a href="#Python">Python</a></li>
             <li><a href="#SQL">SQL</a></li>
             <li><a href="#NoSQL">NoSQL</a></li>
-            <li><a href="#networkanalysis">network analysis</a></li>
-            <li><a href="#scientificcomputing">scientific computing</a></li>
-            <li><a href="#statisticalanalysis">statistical analysis</a></li>
-            <li><a href="#textprocessing">text processing</a></li>
-            <li><a href="#visualization">visualization</a></li>
+            <li><a href="#R">R</a></li>
+            <li><a href="#statistical">Statistics</a></li>
+            <li><a href="#NLTK">NLP</a></li>
+            <li><a href="#SKLearn">Machine Learning</a></li>
+            <li><a href="#networksalanalysis">Networks Analysis</a></li>
+            <li><a href="#pca">PCA</a></li>
+            <li><a href="#linear">Regression</a></li>
             <li><a href="#webscraping">web scraping</a></li>
             <li><a href="#rpackages">R Packages</a></li>
         </ul>
@@ -43,7 +45,7 @@ Auto data: to determine what is influencing the MPG.
 [Auto data](auto_mpg.data)
 [SKLearn Python](Auto_MPG.ipynb)<br/>
 
-#### <a name="qtl"></a>[keras](http://www.rqtl.org)
+#### <a name="nltk"></a>Natural Language Processing
 {Add description of example an library here}
 
 [keras example](http://groups.google.com/group/Rqtl-disc)
@@ -93,13 +95,18 @@ Auto data: to determine what is influencing the MPG.
 
 ---
 
-### <a name="statisticalanalysis"></a>statistic alanalysis
-#### <a name="qtl"></a>[statsmodels](http://www.rqtl.org)
+### <a name="statistical"></a>Statistic Alanalysis
+#### <a name="pca"></a>[PCA](http://www.rqtl.org)
 {Add description of example an library here}
 
 [statsmodels example](http://groups.google.com/group/Rqtl-disc)
 [statsmodels repository](http://groups.google.com/group/Rqtl-disc)
 
+#### <a name="linear"></a>[Linear Regression](http://www.rqtl.org)
+{Add description of example an library here}
+
+[statsmodels example](http://groups.google.com/group/Rqtl-disc)
+[statsmodels repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
