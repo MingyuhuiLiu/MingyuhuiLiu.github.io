@@ -15,6 +15,8 @@ description: overview
   * Financial Industry
 
 #### <a name="education"></a>Education
+ * George Washington University, Master of Science, Data Analytics '19
+
  * Duke University, Master of Environmental Management '17
 
  * Xi'an Jiaotong University, Bachelor of Engineering (Energy Power System and Automation) '15
@@ -26,18 +28,28 @@ description: overview
 
  * 01/2016 - 05/2016 Management Team: GenieUs, Inc.                                      Durham, NC
 
-#### <a name="Skills"></a>Skills
- * Python(Numpy, SciPy, SKLearn, Matplotlib)
+#### <a name="Skills"></a>[Tools](https://mingyuhuiliu.github.io/pages/software.html)
+ * Python(Numpy, Pandas, SKLearn, Matplotlib, NLTK)
+ 
+ * SQL and NoSQL 
 
  * R(MCMC, Bayesian, GLM)
 
  * Advanced Excel(VBA, Macros)
 
 
-#### <a name="researchbackground"></a>Research background
-{Insert text here}
+#### <a name="researchbackground"></a>[Research and Projects](https://mingyuhuiliu.github.io/pages/Projects.html)
+ * Pro-Bono: Ford Motor Co. "Better World" Project
+ 
+ * Business Intelligence: Capital Bikeshare Profit Growth Strategy
 
+ * Price Prediction: King County House Sales
 
+ * Statistical Modeling: PCA and Regression
+
+ * Masters Project
+ 
+ * R Project
 
 #### <a name="cvandresume"></a>cv and resume
  * [Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf)
