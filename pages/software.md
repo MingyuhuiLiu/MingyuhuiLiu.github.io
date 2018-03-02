@@ -8,8 +8,8 @@ description: Mingyuhui Liu(Jane)'s Skillsets
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#Python">Python</a></li>
-            <li><a href="#deeplearning">deep learning</a></li>
-            <li><a href="#machinelearning">machine learning</a></li>
+            <li><a href="#SQL">SQL</a></li>
+            <li><a href="#NoSQL">NoSQL</a></li>
             <li><a href="#networkanalysis">network analysis</a></li>
             <li><a href="#scientificcomputing">scientific computing</a></li>
             <li><a href="#statisticalanalysis">statistical analysis</a></li>
@@ -63,8 +63,8 @@ Auto data: to determine what is influencing the MPG.
 
 ---
 
-### <a name="networkanalysis"></a>network analysis
-#### <a name="qtl"></a>[networkx](http://www.rqtl.org)
+### <a name="SQL"></a>SQL
+#### <a name="sql"></a>[networkx](http://www.rqtl.org)
 {Add description of example an library here}
 
 [networkx example](http://groups.google.com/group/Rqtl-disc)
@@ -73,15 +73,15 @@ Auto data: to determine what is influencing the MPG.
 
 ---
 
-### <a name="scientificcomputing"></a>scientific computing
-#### <a name="qtl"></a>[numpy](http://www.rqtl.org)
+### <a name="NoSQL"></a>NoSQL
+#### <a name="Dynamo"></a>[Dynamo](http://www.rqtl.org)
 {Add description of example an library here}
 
 [numpy examples](http://groups.google.com/group/Rqtl-disc)
 [numpy repository](http://groups.google.com/group/Rqtl-disc)
 
 
-#### <a name="qtl"></a>[scipy](http://www.rqtl.org)
+#### <a name="MongoDB"></a>[MongoDB](http://www.rqtl.org)
 {Add description of example an library here}
 
 [scipy example](http://groups.google.com/group/Rqtl-disc)
