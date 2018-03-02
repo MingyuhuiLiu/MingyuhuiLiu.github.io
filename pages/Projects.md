@@ -20,9 +20,9 @@ description: Student's Presentations in Data Analytics
 
 ### <a name="probono"></a>Pro-Bono Project: Ford Motor Co. "Better World" Project, 2018.02-Present
 Reducing cost, generating revenue and expanding social impact for Ford’s Project Better World:
-<br/>&nbsp; &nbsp; &nbsp;Collecting raw data from NGOs in Project Better World on vehicles mobilities, such as mileage and routes, etc.;
-<br/>&nbsp; &nbsp; &nbsp;Analyzing collected data with proper statistical models to identify patterns and problems of vehicle utilities in NGOs;
-<br/>&nbsp; &nbsp; &nbsp;Building a generalized “Smart Mobility Model” based on cost and benefit analysis, to help NGOs optimize the vehicle utilities. 
+ * Collecting raw data from NGOs in Project Better World on vehicles mobilities, such as mileage and routes, etc.;
+ * Analyzing collected data with proper statistical models to identify patterns and problems of vehicle utilities in NGOs;
+ * Building a generalized “Smart Mobility Model” based on cost and benefit analysis, to help NGOs optimize the vehicle utilities. 
 
 
 ---
