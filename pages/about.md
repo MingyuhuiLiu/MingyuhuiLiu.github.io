@@ -4,6 +4,14 @@ title: about
 description: overview
 ---
 
+#### <a name="cvandresume"></a>cv and resume
+ * [Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf)
+
+ * [Resume中文版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Jane.pdf)
+
+ * [CV中文版加长版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇CV.pdf)
+
+---
 #### <a name="currentposition"></a>Current position
  * GWU MS candidate in Data Analytics
 
@@ -51,14 +59,7 @@ description: overview
  
  * R Project
 
-#### <a name="cvandresume"></a>cv and resume
- * [Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf)
 
- * [Resume中文版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Jane.pdf)
-
- * [CV中文版加长版简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/刘明宇汇CV.pdf)
-
----
 
 
 
