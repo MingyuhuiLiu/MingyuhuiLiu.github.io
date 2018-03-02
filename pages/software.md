@@ -30,6 +30,7 @@ description: Mingyuhui Liu(Jane)'s Skillsets
             <li><u><a href="#pca">PCA</a></u></li>
             <li><u><a href="#linear">Regression</a></u></li>
             <li><u><a href="#webscraping">Web Scraping</a></u></li>
+            <li><u><a href="#Visualization">Visualization</a></u></li>
         </ul>
     </div>
 </div>
@@ -136,37 +137,6 @@ Auto data: to determine what is influencing the MPG.
 
 [statsmodels example](http://groups.google.com/group/Rqtl-disc)
 [statsmodels repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-### <a name="visualization"></a>visualization
-#### <a name="qtl"></a>[bokeh](http://www.rqtl.org)
-{Add description of example an library here}
-
-[bokeh example](http://groups.google.com/group/Rqtl-disc)
-[bokeh repository](http://groups.google.com/group/Rqtl-disc)
-
-
-#### <a name="qtl"></a>[matpilotlib](http://www.rqtl.org)
-{Add description of example an library here}
-
-[matpilotlib example](http://groups.google.com/group/Rqtl-disc)
-[matpilotlib repository](http://groups.google.com/group/Rqtl-disc)
-
-
-#### <a name="qtl"></a>[seaborn](http://www.rqtl.org)
-{Add description of example an library here}
-
-[seaborn example](http://groups.google.com/group/Rqtl-disc)
-[seaborn repository](http://groups.google.com/group/Rqtl-disc)
-
-
-#### <a name="qtl"></a>[plotly](http://www.rqtl.org)
-{Add description of example an library here}
-
-[plotly example](http://groups.google.com/group/Rqtl-disc)
-[plotly repository](http://groups.google.com/group/Rqtl-disc)
-
 
 ---
 
