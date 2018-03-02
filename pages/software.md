@@ -94,6 +94,22 @@ Auto data: to determine what is influencing the MPG.
 
 
 ---
+### <a name="R"></a>R
+#### <a name="networkanalysis"></a>[Network Analysis](http://www.rqtl.org)
+{Add description of example an library here}
+
+[Ego Networks](http://groups.google.com/group/Rqtl-disc)
+[nlkt repository](http://groups.google.com/group/Rqtl-disc)
+
+
+#### <a name="qtl"></a>[gensim](http://www.rqtl.org)
+{Add description of example an library here}
+
+[gensim example](http://groups.google.com/group/Rqtl-disc)
+[gensim repository](http://groups.google.com/group/Rqtl-disc)
+
+
+---
 
 ### <a name="statistical"></a>Statistic Alanalysis
 #### <a name="pca"></a>[PCA](http://www.rqtl.org)
@@ -107,23 +123,6 @@ Auto data: to determine what is influencing the MPG.
 
 [statsmodels example](http://groups.google.com/group/Rqtl-disc)
 [statsmodels repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-### <a name="textprocessing"></a>text processing
-#### <a name="qtl"></a>[nlkt](http://www.rqtl.org)
-{Add description of example an library here}
-
-[nlkt example](http://groups.google.com/group/Rqtl-disc)
-[nlkt repository](http://groups.google.com/group/Rqtl-disc)
-
-
-#### <a name="qtl"></a>[gensim](http://www.rqtl.org)
-{Add description of example an library here}
-
-[gensim example](http://groups.google.com/group/Rqtl-disc)
-[gensim repository](http://groups.google.com/group/Rqtl-disc)
-
 
 ---
 
