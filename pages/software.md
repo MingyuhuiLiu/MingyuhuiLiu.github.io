@@ -62,7 +62,7 @@ Auto data: to determine what is influencing the MPG.
 #### <a name="NLTK"></a>Natural Language Processing
 Text Data processing with NLTK package in Python.
 
-<br/>&nbsp; &nbsp; &nbsp;Download: [keras example](http://groups.google.com/group/Rqtl-disc)
+<br/>&nbsp; &nbsp; &nbsp;Download: [NLTK example](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
@@ -98,9 +98,8 @@ Please find the partial code can be found here:
 ---
 ### <a name="R"></a>R
 #### <a name="networksanalysis"></a>Network Analysis
-{Add description of example an library here}
+Ego networks for Twitter data.
 
-<br/>&nbsp; &nbsp; &nbsp;Download: [Ego Networks data files]()
 <br/>&nbsp; &nbsp; &nbsp;Download: [R codes]()
 <br/>
 
@@ -108,10 +107,10 @@ Please find the partial code can be found here:
 
 ### <a name="statistical"></a>Statistic Alanalysis
 #### <a name="pca"></a>Principle Component Aanalysis
-Project regarding PCA can be found [here]()
+Project regarding PCA can be found [here]({{ BASE_PATH }}/pages/Projects.html/#statistical)
 <br/>
 #### <a name="linear"></a>[Linear Regression](http://www.rqtl.org)
-Project regarding PCA can be found [here]()
+Project regarding PCA can be found [here]({{ BASE_PATH }}/pages/Projects.html)
 <br/>
 
 ---
