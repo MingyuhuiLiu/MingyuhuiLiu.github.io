@@ -17,7 +17,7 @@ description: Student's Presentations in Data Analytics
 </div>
 ---
 
-### <a name="capitalbikeshare"></a>2017.08-2017.12: Business Intelligence: Capital Bikeshare Profit Growth
+### <a name="capitalbikeshare"></a>Business Intelligence: Capital Bikeshare Profit Growth, 2017.08-2017.12
 <br/>&nbsp; &nbsp; &nbsp; Download: 
 [Download the Presentation](Final_Jane.pdf)
 
@@ -33,7 +33,7 @@ description: Student's Presentations in Data Analytics
 
 ---
 
-### <a name="kingcounty"></a>2017.08-2017.12: King County House Price Prediction: A Support Vector Machine Approach
+### <a name="kingcounty"></a>King County House Price Prediction: A Support Vector Machine Approach, 2017.08-2017.12
 <br/>&nbsp; &nbsp; &nbsp; Python (Updated on 12/7/2017): 
 [ Python ](Final_Project_HouseSale.ipynb)
 
@@ -46,7 +46,7 @@ description: Student's Presentations in Data Analytics
 ---
 
 ### <a name="statistical"></a>Statistical Modeling
-#### <a name="pca"></a>Principle Component Analysis
+#### <a name="pca"></a>Principle Component Analysis, 2017.08-2017.12
 <br/>&nbsp; &nbsp; &nbsp; The spreadsheet "JudgeResultsPeas"
 contains average response results on 17
 attributes of 60 pea variations. Write a
@@ -73,13 +73,13 @@ Scree Plot and Loading Plot from MiniTab.
 
 <br/>
 
-#### <a name="regression"></a>Regression
+#### <a name="regression"></a>Regression, 2017.08-2017.12
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel](Excel_Regression.xlsx)
 <br/>&nbsp; &nbsp; &nbsp;[Download the Report](Regression.pdf)
 
 ---
 
-#### <a name="master"></a>2016.08-2017.05: Comparison of Global Emission Inventories: Using Examples from US and China
+### <a name="master"></a>Comparison of Global Emission Inventories: Using Examples from US and China, 2016.08-2017.05
 <br/>&nbsp; &nbsp; &nbsp; Download presentation:
 [Symposium ![](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MP.pdf)
 
@@ -94,7 +94,7 @@ Scree Plot and Loading Plot from MiniTab.
 
 ---
 
-#### <a name="R"></a>2017.02-2017.05: Socio-economic and Environmental Consciousness Effects on Pro-environmental Attitudes
+### <a name="R"></a>Socio-economic and Environmental Consciousness Effects on Pro-environmental Attitudes, 2017.02-2017.05
 <br/>&nbsp; &nbsp; &nbsp; Download R file:
 [Sample Codes ![](icons16/R-icon.png)]({{ BASE_PATH }}/assets/GSSData.R)
 &nbsp; &nbsp; &nbsp; 
