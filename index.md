@@ -23,7 +23,7 @@ This website is desinged to give an insight of Mingyuhui Liu(Jane)'s work as a D
 
 Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
 
-Jane's main interest lies in using her data analytical skills to succeed in technology industry, consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. (Please feel free to <a href="#ContactMe">contact me</a>!)
+Jane is serving as the VP at the GWU Consulting Club. and Jane's main interest lies in using her data analytical skills to succeed in technology industry, consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. (Please feel free to <a href="#ContactMe">contact me</a>!)
 
 For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "About Me" for a quick walk-down bullet points, or simply click on the links above!
 
