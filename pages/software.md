@@ -176,16 +176,11 @@ Auto data: to determine what is influencing the MPG.
 [beautifulsoup repository](http://groups.google.com/group/Rqtl-disc)
 
 
-#### <a name="qtl"></a>[scrapy](http://www.rqtl.org)
+#### <a name="qtl"></a>[API](http://www.rqtl.org)
 {Add description of example an library here}
 
 [scrapy example](http://groups.google.com/group/Rqtl-disc)
 [scrapy repository](http://groups.google.com/group/Rqtl-disc)
 
-
----
-### <a name="R Packages"></a>R Packages
-#### <a name="qtl"></a>[R](http://www.r-project.org)
-TBD
 
 
