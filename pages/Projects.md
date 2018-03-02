@@ -7,6 +7,7 @@ description: Student's Presentations in Data Analytics
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#probono"><u>Pro-Bono: Ford Motor Co</u></a></li>
             <li><a href="#capitalbikeshare"><u>Business Intelligence</u></a></li>
             <li><a href="#kingcounty"><u>Price Prediction</u></a></li>
             <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
@@ -16,7 +17,14 @@ description: Student's Presentations in Data Analytics
     </div>
 </div>
 ---
+### <a name="probono"></a>Pro-Bono Project: Ford Motor Co. "Better World" Project, 2018.02-Present
+Reducing cost, generating revenue and expanding social impact for Ford’s Project Better World:
+o	Collecting raw data from NGOs in Project Better World on vehicles mobilities, such as mileage and routes, etc.;
+o	Analyzing collected data with proper statistical models to identify patterns and problems of vehicle utilities in NGOs;
+o	Building a generalized “Smart Mobility Model” based on cost and benefit analysis, to help NGOs optimize the vehicle utilities. 
 
+
+---
 ### <a name="capitalbikeshare"></a>Business Intelligence: Capital Bikeshare Profit Growth, 2017.08-2017.12
 <br/>&nbsp; &nbsp; &nbsp; Download: 
 [Download the Presentation](Final_Jane.pdf)
