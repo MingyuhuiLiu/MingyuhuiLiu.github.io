@@ -54,15 +54,15 @@ Visualization with Matplotlib.
 #### <a name="SKLearn"></a>SKLearn: Linear Regression with Categorical Variables
 Auto data: to determine what is influencing the MPG.
 
-<br/>&nbsp; &nbsp; &nbsp;[Auto data](auto_mpg.data)
-<br/>&nbsp; &nbsp; &nbsp;[SKLearn Python](Auto_MPG.ipynb)<br/>
+<br/>&nbsp; &nbsp; &nbsp;Download: [Auto data](auto_mpg.data)
+<br/>&nbsp; &nbsp; &nbsp;Download: [SKLearn Python](Auto_MPG.ipynb)<br/>
 
 <br/>
 
 #### <a name="NLTK"></a>Natural Language Processing
 Text Data processing with NLTK package in Python.
 
-<br/>&nbsp; &nbsp; &nbsp;[keras example](http://groups.google.com/group/Rqtl-disc)
+<br/>&nbsp; &nbsp; &nbsp;Download: [keras example](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
@@ -72,7 +72,7 @@ I used MySQL Workbench and pymysql in Python to connect to and work on the data 
 Since there is a issue of key for the connection, I could not post the complete version here.
 Please kindly refer to the partial code:
 
-<br/>&nbsp; &nbsp; &nbsp;[pymysql]()
+<br/>&nbsp; &nbsp; &nbsp;Download: [pymysql]()
 <br/>
 
 ---
@@ -84,7 +84,7 @@ Since there are issues of keys for the connection and access, I could not post t
 I use AWS for Dynamo, and boto in Python to connect. 
 Please find the partial code can be found here:
 
-<br/>&nbsp; &nbsp; &nbsp;[boto in Python]()
+<br/>&nbsp; &nbsp; &nbsp;Download: [boto in Python]()
 <br/>
 
 
@@ -92,7 +92,7 @@ Please find the partial code can be found here:
 I use Boto 3T for MongoDB and pymongo in Python to connect. 
 Please find the partial code can be found here:
 
-<br/>&nbsp; &nbsp; &nbsp;[pymongo]()
+<br/>&nbsp; &nbsp; &nbsp;Download: [pymongo]()
 <br/>
 
 ---
@@ -100,8 +100,8 @@ Please find the partial code can be found here:
 #### <a name="networksanalysis"></a>Network Analysis
 {Add description of example an library here}
 
-<br/>&nbsp; &nbsp; &nbsp;[Ego Networks data files]()
-<br/>&nbsp; &nbsp; &nbsp;[R codes]()
+<br/>&nbsp; &nbsp; &nbsp;Download: [Ego Networks data files]()
+<br/>&nbsp; &nbsp; &nbsp;Download: [R codes]()
 <br/>
 
 ---
@@ -120,14 +120,14 @@ Project regarding PCA can be found [here]()
 #### <a name="qtl"></a>BeautifulSoup
 Web scraping with beautifulsoup in Python.
 
-<br/>&nbsp; &nbsp; &nbsp;[beautifulsoup example]()
+<br/>&nbsp; &nbsp; &nbsp;Download: [beautifulsoup example]()
 
 <br/>
 
 #### <a name="qtl"></a>API
 Twitter API.
 
-<br/>&nbsp; &nbsp; &nbsp;[API example]()
+<br/>&nbsp; &nbsp; &nbsp;Download: [API example]()
 
 
 
