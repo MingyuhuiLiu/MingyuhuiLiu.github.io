@@ -8,11 +8,11 @@ description: Mingyuhui Liu(Jane)'s Skillsets
     <div class="navbar-inner">
         <ul class="nav">
             <li><a><font size="4" color="black">TOOLS:</font></a></li>
-            <li><a href="#Python">Python</a></li>
-            <li><a href="#SQL">SQL</a></li>
-            <li><a href="#NoSQL">NoSQL</a></li>
-            <li><a href="#R">R</a></li>
-            <li><a href="#statistical">Statistics</a></li>
+            <li><u><a href="#Python">Python</a></u></li>
+            <li><u><a href="#SQL">SQL</a></u></li>
+            <li><u><a href="#NoSQL">NoSQL</a></u></li>
+            <li><u><a href="#R">R</a></u></li>
+            <li><u><a href="#statistical">Statistics</a></u></li>
         </ul>
     </div>
 </div>
@@ -23,13 +23,13 @@ description: Mingyuhui Liu(Jane)'s Skillsets
     <div class="navbar-inner">
         <ul class="nav">
             <li><a><font size="4" color="black">SKILLS:</font></a></li>
-            <li><a href="#statistical">Statistics</a></li>
-            <li><a href="#NLTK">NLP</a></li>
-            <li><a href="#SKLearn">Machine Learning</a></li>
-            <li><a href="#networksanalysis">Networks Analysis</a></li>
-            <li><a href="#pca">PCA</a></li>
-            <li><a href="#linear">Regression</a></li>
-            <li><a href="#webscraping">Web Scraping</a></li>
+            <li><u><a href="#statistical">Statistics</a></u></li>
+            <li><u><a href="#NLTK">NLP</a></u></li>
+            <li><u><a href="#SKLearn">Machine Learning</a></u></li>
+            <li><u><a href="#networksanalysis">Networks Analysis</a></u></li>
+            <li><u><a href="#pca">PCA</a></u></li>
+            <li><u><a href="#linear">Regression</a></u></li>
+            <li><u><a href="#webscraping">Web Scraping</a></u></li>
         </ul>
     </div>
 </div>
