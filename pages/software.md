@@ -8,11 +8,11 @@ description: Mingyuhui Liu(Jane)'s Skillsets
     <div class="navbar-inner">
         <ul class="nav">
             <li><a><font size="4" color="black">TOOLS:</font></a></li>
-            <li><u><a href="#Python">Python</a></u></li>
-            <li><u><a href="#SQL">SQL</a></u></li>
-            <li><u><a href="#NoSQL">NoSQL</a></u></li>
-            <li><u><a href="#R">R</a></u></li>
-            <li><u><a href="#statistical">Statistics</a></u></li>
+            <li><a href="#Python"><u>Python</u></a></li>
+            <li><a href="#SQL"><u>SQL</u></a></li>
+            <li><a href="#NoSQL"><u>NoSQL</u></a></li>
+            <li><a href="#R"><u>R</u></a></li>
+            <li><a href="#statistical"><u>Statistics</u></a></li>
         </ul>
     </div>
 </div>
@@ -23,14 +23,14 @@ description: Mingyuhui Liu(Jane)'s Skillsets
     <div class="navbar-inner">
         <ul class="nav">
             <li><a><font size="4" color="black">SKILLS:</font></a></li>
-            <li><u><a href="#statistical">Statistics</a></u></li>
-            <li><u><a href="#NLTK">NLP</a></u></li>
-            <li><u><a href="#SKLearn">Machine Learning</a></u></li>
-            <li><u><a href="#networksanalysis">Networks Analysis</a></u></li>
-            <li><u><a href="#pca">PCA</a></u></li>
-            <li><u><a href="#linear">Regression</a></u></li>
-            <li><u><a href="#webscraping">Web Scraping</a></u></li>
-            <li><u><a href="#Visualization">Visualization</a></u></li>
+            <li><a href="#statistical"><u>Statistics</u></a></li>
+            <li><a href="#NLTK"><u>NLP</u></a></li>
+            <li><a href="#SKLearn"><u>Machine Learning</u></a></li>
+            <li><a href="#networksanalysis"><u>Networks Analysis</u></a></li>
+            <li><a href="#pca"><u>PCA</u></a></li>
+            <li><a href="#linear"><u>Regression</u></a></li>
+            <li><a href="#webscraping"><u>Web Scraping</u></a></li>
+            <li><a href="#Visualization"><u>Visualization</u></a></li>
         </ul>
     </div>
 </div>
