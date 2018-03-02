@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Data Analytics ToolKit
-description: Ben Harvey's assignments
+title: Jane's Skillset
+description: Mingyuhui Liu(Jane)'s Skillsets
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#datastructures">data structures</a></li>
+            <li><a href="#Python">Python</a></li>
             <li><a href="#deeplearning">deep learning</a></li>
             <li><a href="#machinelearning">machine learning</a></li>
             <li><a href="#networkanalysis">network analysis</a></li>
@@ -22,26 +22,23 @@ description: Ben Harvey's assignments
 </div>
 
 
-### <a name="datastructures"></a>data structures
-#### <a name="qtl"></a>[pandas](http://www.rqtl.org)
+### <a name="Python"></a>Python
+#### <a name="Visualization"></a>[Visualization: Matplotlib Example Graphs](Matplotlib_Example.docx)
 {Add description of example an library here}
 
-[pandas example](http://groups.google.com/group/Rqtl-disc)
-[pandas repository](http://groups.google.com/group/Rqtl-disc)
+[Matplotlib Python Download](Visualization_Matplotlib.ipynb)
 
 
-### <a name="deeplearning"></a>deep learning
-#### <a name="qtl"></a>[theano](http://www.rqtl.org)
+#### <a name="SKLearn"></a>SKLearn: Manually 10-folds Cross Validation
+{10-folds cross validation for SKLearn linear regression.}
+
+[SKLearn Python](10-folds.ipynb)
+
+#### <a name="SKLearn"></a>SKLearn: Linear Regression with Categorical Variables
 {Add description of example an library here}
 
-[numpy example](http://groups.google.com/group/Rqtl-disc)
-[numpy repository](http://groups.google.com/group/Rqtl-disc)
-
-#### <a name="qtl"></a>[tensorflow](http://www.rqtl.org)
-{Add description of example an library here}
-
-[tensorflow example](http://groups.google.com/group/Rqtl-disc)
-[tensorflow repository](http://groups.google.com/group/Rqtl-disc)
+[Auto data](auto_mpg.data)
+[SKLearn Python](Auto_MPG.ipynb)
 
 #### <a name="qtl"></a>[keras](http://www.rqtl.org)
 {Add description of example an library here}
