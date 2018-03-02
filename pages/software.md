@@ -28,11 +28,14 @@ Visualization with Matplotlib.
 
 [Matplotlib Python Download](Visualization_Matplotlib.ipynb)<br/>
 
+<br/>
 
 #### <a name="SKLearn"></a>SKLearn: Manually 10-folds Cross Validation
 10-folds cross validation for SKLearn linear regression.
 
 [SKLearn Python](10-folds.ipynb)<br/>
+
+--
 
 #### <a name="SKLearn"></a>SKLearn: Linear Regression with Categorical Variables
 Auto data: to determine what is influencing the MPG.
