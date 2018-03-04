@@ -101,7 +101,7 @@ Please find the partial code can be found here:
 #### <a name="networksanalysis"></a>Network Analysis
 Ego networks for Twitter data.
 
-<br/>&nbsp; &nbsp; &nbsp;Download: [R codes]()
+<br/>&nbsp; &nbsp; &nbsp;Download: [R codes](Project1_Submission.R)
 <br/>
 
 ---
