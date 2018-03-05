@@ -21,40 +21,38 @@ keywords: Data analytics
 
 This website is desinged to give an insight of Mingyuhui Liu(Jane)'s work as a Data Analytics student at George Washington University, DC, USA. It does not only show her resume-related skills for recruitment-seeking purpose, but also shows her passion for life beyond professional fields for her own records. 
 
-Mingyuhui Liu(Jane) is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
+As the top of the class in Data Analytics and the VP of GWU Consulting Club, Mingyuhui Liu (Jane)'s main interest lies in using her data analytical skills to succeed in technology industry, consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. (Please feel free to <a href="#ContactMe">contact me</a>!)
 
-Jane is serving as the VP at the GWU Consulting Club. and Jane's main interest lies in using her data analytical skills to succeed in technology industry, consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. (Please feel free to <a href="#ContactMe">contact me</a>!)
+Jane is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
 
 For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "About Me" for a quick walk-down bullet points, or simply click on the links above!
 
-During her leisure time, Jane loves traveling and Sports, especially soccer. She is a hard-core fan for FC Bayern Munich, Germany. She also volunteers in Chengdu Giant Panda Research Base when she goes back to her hometown in Chengdu, Sichuan, China. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Bayern-Loving photos and stories!
+During her leisure time, Jane loves traveling, filming and Soccer. She also volunteers in Chengdu Giant Panda Research Base when she goes back to her hometown in Chengdu, Sichuan, China. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Soccer-Loving photos and stories!
 
-
-### <a name="Portfolio"></a>Portfolio
+### <a name="Portfolio"></a>Portfolio: Skills/Tools Examples
 
 <table class="narrow">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/software.md/#pca">
+        <img src="pages/loading.png" alt="PCA example" title="PCA example"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/Projects.md/#master">
+        <img src="pages/ECLIPSE2000ENESO2.png" alt="Matplotlib example" title="Matplotlib example"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/software.md/#R">
+        <img src="pages/egonetworks.png" alt="ego networks" title="Ego networks"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/Projects.md/#capitalbikeshare">
+        <img src="pages/image.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
 </tr>
