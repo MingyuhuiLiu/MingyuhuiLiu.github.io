@@ -34,24 +34,24 @@ During her leisure time, Jane loves traveling, filming and Soccer. She also volu
 <table class="narrow">
 <tr>
   <td class="left">
-    <a href="pages/software.html/#pca">
+    <a href="pages/software.html">
         <img src="pages/loading.png" alt="PCA example" title="PCA example" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/Projects.html/#master">
+    <a href="pages/Projects.html">
         <img src="pages/ECLIPSE2000ENESO2.png" alt="Matplotlib example" title="Matplotlib example" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/software.html/#R">
+    <a href="pages/software.html">
         <img src="pages/egonetworks.png" alt="ego networks" title="Ego networks" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/Projects.html/#capitalbikeshare">
+    <a href="pages/Projects.html">
         <img src="pages/image.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4" style="width:400px;height:300px;"/>
     </a>
   </td>
