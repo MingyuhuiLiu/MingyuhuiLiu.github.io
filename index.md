@@ -14,7 +14,7 @@ keywords: Data analytics
           <li><a href="{{ BASE_PATH }}/assets/刘明宇汇CV.pdf">CV中文加长</a></li>
           <li><a href="https://mingyuhuiliu.github.io/">Github</a></li>
           <li><a href="https://www.linkedin.com/in/mingyuhuiliu/">LinkedIn</a></li>
-          <li><a href="https://youtu.be/uIQ4xyWlnv8">Vedio Clips</a></li>
+          <li><a href="https://www.youtube.com/channel/UCZausmZa8HARVAX4GPt1ChQ">Vedio Clips</a></li>
       </ul>
   </div>
 </div>
