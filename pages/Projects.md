@@ -117,3 +117,15 @@ Scree Plot and Loading Plot from MiniTab.
 <br/>&nbsp; &nbsp; &nbsp; 95% Posteriors Sample: Cohort
 &nbsp; &nbsp; &nbsp; <br/><img src="PosteriorCohort.png" alt="R/A1" style="width:280px;height:230px;">
 ---
+
+### <a name="MTurk"></a>Crowd Sourcing: Amazon MTurk
+<br/>&nbsp; &nbsp; &nbsp; Download: 
+[Download the Presentation]()
+
+
+
+<br/>&nbsp; &nbsp; &nbsp; MTurk Instruction Sample Table:
+&nbsp; &nbsp; &nbsp; <br/><img src="sample.png" alt="R/A1" style="width:400px;height:300px;">
+&nbsp; &nbsp; &nbsp;
+
+---
