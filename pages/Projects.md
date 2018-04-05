@@ -128,7 +128,7 @@ Scree Plot and Loading Plot from MiniTab.
 &nbsp; &nbsp; &nbsp; <br/>
 <a href="https://github.com/MingyuhuiLiu/MingyuhuiLiu.github.io/blob/master/pages/sample.png">
   <img src="sample.png" alt="R/A1" style="width:400px;height:300px;">
-</a><img src="sample.png" alt="R/A1" style="width:400px;height:300px;">
+</a>
 &nbsp; &nbsp; &nbsp;
 
 ---
