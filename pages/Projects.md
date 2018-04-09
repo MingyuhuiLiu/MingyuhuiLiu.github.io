@@ -11,6 +11,7 @@ description: Student's Presentations in Data Analytics
             <li><a href="#capitalbikeshare"><u>Business Intelligence</u></a></li>
             <li><a href="#kingcounty"><u>Price Prediction</u></a></li>
             <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
+            <<li><a href="#MTurk"><u>Crowd Sourcing Project: MTurk on Used Car Prices</u></a></li>
             <li><a href="#master"><u>Master's Project</u></a></li>
             <li><a href="#R"><u>R Project</u></a></li>
         </ul>
@@ -118,9 +119,9 @@ Scree Plot and Loading Plot from MiniTab.
 &nbsp; &nbsp; &nbsp; <br/><img src="PosteriorCohort.png" alt="R/A1" style="width:280px;height:230px;">
 ---
 
-### <a name="MTurk"></a>Crowd Sourcing: Amazon MTurk
-<br/>&nbsp; &nbsp; &nbsp; Download: 
-[Download the Presentation]()
+### <a name="MTurk"></a>Crowd Sourcing Project: MTurk on Used Car Prices
+<br/>&nbsp; &nbsp; &nbsp; WorkerSandbox: Search for "Mingyuhui Liu".
+[Sign In To View the Crowd Sourcing MTurk](http://workersandbox.mturk.com)
 
 
 
