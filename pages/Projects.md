@@ -83,6 +83,11 @@ Scree Plot and Loading Plot from MiniTab.
 
 <br/>
 
+
+#### <a name="regression"></a>Regression, 2017.08-2017.12
+<br/>&nbsp; &nbsp; &nbsp;[Download the Excel](Excel_Regression.xlsx)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Report](Regression.pdf)
+
 ---
 
 ### <a name="MTurk"></a>Crowd Sourcing Project: MTurk on Used Car Prices
@@ -97,12 +102,6 @@ Scree Plot and Loading Plot from MiniTab.
   <img src="sample.png" alt="R/A1" style="width:400px;height:300px;">
 </a>
 &nbsp; &nbsp; &nbsp;
-
----
-
-#### <a name="regression"></a>Regression, 2017.08-2017.12
-<br/>&nbsp; &nbsp; &nbsp;[Download the Excel](Excel_Regression.xlsx)
-<br/>&nbsp; &nbsp; &nbsp;[Download the Report](Regression.pdf)
 
 ---
 
