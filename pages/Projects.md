@@ -11,7 +11,7 @@ description: Student's Presentations in Data Analytics
             <li><a href="#capitalbikeshare"><u>Business Intelligence</u></a></li>
             <li><a href="#kingcounty"><u>Price Prediction</u></a></li>
             <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
-            <<li><a href="#MTurk"><u>Crowd Sourcing Project: MTurk on Used Car Prices</u></a></li>
+            <<li><a href="#MTurk"><u>Crowd Sourcing Project: Used Car Prices</u></a></li>
             <li><a href="#master"><u>Master's Project</u></a></li>
             <li><a href="#R"><u>R Project</u></a></li>
         </ul>
@@ -83,6 +83,23 @@ Scree Plot and Loading Plot from MiniTab.
 
 <br/>
 
+---
+
+### <a name="MTurk"></a>Crowd Sourcing Project: MTurk on Used Car Prices
+<br/>&nbsp; &nbsp; &nbsp; WorkerSandbox: Search for "Mingyuhui Liu".
+[Sign In To View the Crowd Sourcing MTurk](http://workersandbox.mturk.com)
+
+
+
+<br/>&nbsp; &nbsp; &nbsp; MTurk Instruction Sample Table:
+&nbsp; &nbsp; &nbsp; <br/>
+<a href="https://github.com/MingyuhuiLiu/MingyuhuiLiu.github.io/blob/master/pages/sample.png">
+  <img src="sample.png" alt="R/A1" style="width:400px;height:300px;">
+</a>
+&nbsp; &nbsp; &nbsp;
+
+---
+
 #### <a name="regression"></a>Regression, 2017.08-2017.12
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel](Excel_Regression.xlsx)
 <br/>&nbsp; &nbsp; &nbsp;[Download the Report](Regression.pdf)
@@ -119,17 +136,3 @@ Scree Plot and Loading Plot from MiniTab.
 &nbsp; &nbsp; &nbsp; <br/><img src="PosteriorCohort.png" alt="R/A1" style="width:280px;height:230px;">
 ---
 
-### <a name="MTurk"></a>Crowd Sourcing Project: MTurk on Used Car Prices
-<br/>&nbsp; &nbsp; &nbsp; WorkerSandbox: Search for "Mingyuhui Liu".
-[Sign In To View the Crowd Sourcing MTurk](http://workersandbox.mturk.com)
-
-
-
-<br/>&nbsp; &nbsp; &nbsp; MTurk Instruction Sample Table:
-&nbsp; &nbsp; &nbsp; <br/>
-<a href="https://github.com/MingyuhuiLiu/MingyuhuiLiu.github.io/blob/master/pages/sample.png">
-  <img src="sample.png" alt="R/A1" style="width:400px;height:300px;">
-</a>
-&nbsp; &nbsp; &nbsp;
-
----
