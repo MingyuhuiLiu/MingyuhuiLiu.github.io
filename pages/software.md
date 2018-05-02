@@ -61,11 +61,11 @@ Auto data: to determine what is influencing the MPG.
 <br/>
 
 #### <a name="NLTK"></a>Natural Language Processing
- * Text Data processing with NLTK package in Python.
+Text Data processing with NLTK package in Python.
 
 <br/>&nbsp; &nbsp; &nbsp;Download: [NLTK example](http://groups.google.com/group/Rqtl-disc)
 
- * Latent Sentiment Analysis (LSA) and Latent Dirichlet Allocation (LDA)
+Latent Sentiment Analysis (LSA) and Latent Dirichlet Allocation (LDA)
 
 <br/>&nbsp; &nbsp; &nbsp;NYSK dataset: NY vs Strauss-Kahn in sexual assult. The dataset collected articles in this topic over a 10-days period. This exmample showed how to use LDA to analyze the topic change (hot or cold topic) over time.
 <br/>&nbsp; &nbsp; &nbsp;Download Python: [LDA Over-time Analysis](LDA_with_nysk_dataset.py)
@@ -79,7 +79,7 @@ Since there is a issue of key for the connection, I could not post the complete 
 Please kindly refer to the partial code:
 
 <br/>&nbsp; &nbsp; &nbsp;Download: [pymysql]()
-<br/>&nbsp; &nbsp; &nbs; A more comprehensive SQL project can be found [here:](https://mingyuhuiliu.github.io/pages/Projects.html) Bank Campaign Prediction. 
+<br/>&nbsp; &nbsp; &nbsp; A more comprehensive SQL project can be found [here:](https://mingyuhuiliu.github.io/pages/Projects.html) Bank Campaign Prediction. 
 
 ---
 
