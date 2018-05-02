@@ -7,7 +7,7 @@ description: Student's Presentations in Data Analytics
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#probono"><u>Pro-Bono: Ford Motor Co</u></a></li>
+            <li><a href="#Bank-Campaign"><u>Bank Campaign Prediction</u></a></li>
             <li><a href="#capitalbikeshare"><u>Business Intelligence</u></a></li>
             <li><a href="#kingcounty"><u>Price Prediction</u></a></li>
             <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
@@ -19,12 +19,18 @@ description: Student's Presentations in Data Analytics
 </div>
 ---
 
-### <a name="probono"></a>Pro-Bono Project: Ford Motor Co. "Better World" Project (Non-disclosure), 2018.02-Present
-Reducing cost, generating revenue and expanding social impact for Ford’s Project Better World:
- * Collecting raw data from NGOs in Project Better World on vehicles mobilities, such as mileage and routes, etc.;
- * Analyzing collected data with proper statistical models to identify patterns and problems of vehicle utilities in NGOs;
- * Building a generalized “Smart Mobility Model” based on cost and benefit analysis, to help NGOs optimize the vehicle utilities. 
-
+### <a name="Bank Campaign"></a>Campaign for Deposit Subscription: Feature Selection and Prediction, 2018.02-2018.05
+Banks campaign to persuade customers to make term deposits. This project takes in a dataset regarding a bank campaign and predicts term deposit status. The anticipated outcome is that user can put in the customer and campaign related data, and then get a prediction of whether the customer will make a term deposit, so that the banker will get some insight of what strategy he or she should use during the campaign process with this customer. 
+ * Methodologies: 
+ &nbsp;&nbsp; SQL
+ &nbsp;&nbsp; Handling categorical variables
+ &nbsp;&nbsp; PCA
+ &nbsp;&nbsp; SVC, Logistic, Random Forest and Naïve Bayes.
+ &nbsp;&nbsp; Recall, Precision, F2 score, ROC, etc.
+ <br/>&nbsp; &nbsp; &nbsp; Download: 
+[Download the Presentation(pdf)](Final_Presentation_Mingyuhui_Liu_(Jane).pdf)
+<br/>&nbsp; &nbsp; &nbsp; Download: 
+[Download the Python Codes](FinalProject_BankMarketing_Mingyuhui_Liu_(Jane).ipynb)
 
 ---
 ### <a name="capitalbikeshare"></a>Business Intelligence: Capital Bikeshare Profit Growth, 2017.08-2017.12
