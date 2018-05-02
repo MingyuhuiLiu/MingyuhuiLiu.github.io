@@ -21,12 +21,12 @@ description: Student's Presentations in Data Analytics
 
 ### <a name="Bank Campaign"></a>Campaign for Deposit Subscription: Feature Selection and Prediction, 2018.02-2018.05
 Banks campaign to persuade customers to make term deposits. This project takes in a dataset regarding a bank campaign and predicts term deposit status. The anticipated outcome is that user can put in the customer and campaign related data, and then get a prediction of whether the customer will make a term deposit, so that the banker will get some insight of what strategy he or she should use during the campaign process with this customer. 
- * Methodologies: 
- &nbsp;&nbsp; SQL<br/>
- &nbsp;&nbsp; Handling categorical variables<br/>
- &nbsp;&nbsp; PCA<br/>
- &nbsp;&nbsp; SVC, Logistic, Random Forest and Naïve Bayes.<br/>
- &nbsp;&nbsp; Recall, Precision, F2 score, ROC, etc.<br/>
+ * Methodologies: <br/>
+ &nbsp;&nbsp; * SQL<br/>
+ &nbsp;&nbsp; * Handling categorical variables<br/>
+ &nbsp;&nbsp; * PCA<br/>
+ &nbsp;&nbsp; * SVC, Logistic, Random Forest and Naïve Bayes.<br/>
+ &nbsp;&nbsp; * Recall, Precision, F2 score, ROC, etc.<br/>
  <br/>&nbsp; &nbsp; &nbsp; Download: 
 [Download the Presentation(pdf)](Final_Presentation_Mingyuhui_Liu_(Jane).pdf)
 <br/>&nbsp; &nbsp; &nbsp; Download: 
