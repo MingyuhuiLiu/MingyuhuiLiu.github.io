@@ -24,8 +24,8 @@ description: Mingyuhui Liu(Jane)'s Skillsets
         <ul class="nav">
             <li><a><font size="4" color="black">SKILLS:</font></a></li>
             <li><a href="#statistical"><u>Statistics</u></a></li>
-            <li><a href="#NLTK"><u>NLP</u></a></li>
-            <li><a href="#SKLearn"><u>Machine Learning</u></a></li>
+            <li><a href="#NLTK"><u>NLP (LSA, LDA, etc.)</u></a></li>
+            <li><a href="#SKLearn"><u>General Machine Learning</u></a></li>
             <li><a href="#networksanalysis"><u>Networks Analysis</u></a></li>
             <li><a href="#pca"><u>PCA</u></a></li>
             <li><a href="#linear"><u>Regression</u></a></li>
@@ -61,10 +61,15 @@ Auto data: to determine what is influencing the MPG.
 <br/>
 
 #### <a name="NLTK"></a>Natural Language Processing
-Text Data processing with NLTK package in Python.
+ * Text Data processing with NLTK package in Python.
 
 <br/>&nbsp; &nbsp; &nbsp;Download: [NLTK example](http://groups.google.com/group/Rqtl-disc)
 
+ * Latent Sentiment Analysis (LSA) and Latent Dirichlet Allocation (LDA)
+
+<br/>&nbsp; &nbsp; &nbsp;NYSK dataset: NY vs Strauss-Kahn in sexual assult. The dataset collected articles in this topic over a 10-days period. This exmample showed how to use LDA to analyze the topic change (hot or cold topic) over time.
+<br/>&nbsp; &nbsp; &nbsp;Download Python: [LDA Over-time Analysis](LDA_with_nysk_dataset.py)
+<br/>&nbsp; &nbsp; &nbsp; (Download the NYSK dataset from UCI, and convert the XML into JSON to proceed this code)
 ---
 
 ### <a name="SQL"></a>SQL
@@ -74,7 +79,7 @@ Since there is a issue of key for the connection, I could not post the complete 
 Please kindly refer to the partial code:
 
 <br/>&nbsp; &nbsp; &nbsp;Download: [pymysql]()
-<br/>
+<br/>&nbsp; &nbsp; &nbs; A more comprehensive SQL project can be found [here:](https://mingyuhuiliu.github.io/pages/Projects.html) Bank Campaign Prediction. 
 
 ---
 
