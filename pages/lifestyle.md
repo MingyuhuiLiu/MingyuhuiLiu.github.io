@@ -28,21 +28,21 @@ description: Life Style
     </div>
 </div>
 
-#### <a name="FCBayernMunich"></a>[FC Bayern Munich](https://mingyuhuiliu.github.io/pages/FCBayernMunich.html)
-* February 24, 2018 - Bayern Vs Hertha Berlin (0:0)
+#### <a name="FCBayernMunich"></a>FC Bayern Munich
+* February 24, 2018 - Bayern Vs Hertha Berlin (0:0) <br/>
 <img src="Allianz_feb.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Allianz_feb2.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Allianz_feb3.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Allianz_feb4.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Allianz_feb5.JPG" alt="R/A1" style="width:240px;height:200px;">
 
-* August 3, 2017 - Bayern Vs Liverpool (0:3)
+* August 3, 2017 - Bayern Vs Liverpool (0:3)<br/>
 <img src="Sabener_1.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Sabener_2.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Allianz_aug_1.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Allianz_aug_2.JPG" alt="R/A1" style="width:240px;height:200px;">
 
-* May 20, 2017 - The Retire of Xavi Alonso and Philip Lahm; Bayern Vs Freighburg (4:1)
+* May 20, 2017 - The Retire of Xavi Alonso and Philip Lahm; Bayern Vs Freighburg (4:1)<br/>
 <img src="Allianz1.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Allianz_Coach.JPG" alt="R/A1" style="width:240px;height:200px;">
 <img src="Allianz_outlet.JPG" alt="R/A1" style="width:240px;height:200px;">
@@ -50,7 +50,7 @@ description: Life Style
 <img src="Allianz_Ceremony.JPG" alt="R/A1" style="width:240px;height:200px;">
 
 #### <a name="UnitedNations"></a>United Nations
- * United Nations, Geneva, Switzerland, 2017 Summer Internship
+ * United Nations, Geneva, Switzerland, 2017 Summer Internship<br/>
 <img src="Groupphoto.JPG" alt="R/A1" style="width:240px;height:200px;"> 
 <img src="Office_3.JPG" alt="R/A1" style="width:240px;height:200px;"> 
 <img src="UN_2.JPG" alt="R/A1" style="width:240px;height:200px;"> 
@@ -58,12 +58,12 @@ description: Life Style
 <img src="UN_Stage.JPG" alt="R/A1" style="width:240px;height:200px;"> 
 
 #### <a name="Finland"></a>Finland & Northern Light Hunting
- * February, 2018
+ * February, 2018<br/>
 <img src="IMG_0045.JPG" alt="R/A1" style="width:240px;height:200px;"> 
 <img src="IMG_9521.JPG" alt="R/A1" style="width:240px;height:200px;"> 
 <img src="IMG_9522.JPG" alt="R/A1" style="width:240px;height:200px;"> 
 <img src="IMG_9746.JPG" alt="R/A1" style="width:240px;height:200px;"> 
- * February, 2018 - Talin, Estonia
+ * February, 2018 - Talin, Estonia<br/>
 <img src="Finland_Estonia1.JPG" alt="R/A1" style="width:240px;height:200px;"> 
 <img src="Finland_estonia2.JPG" alt="R/A1" style="width:240px;height:200px;"> 
 
