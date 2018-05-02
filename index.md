@@ -21,7 +21,7 @@ keywords: Data analytics
 
 This website is desinged to give an insight of Mingyuhui Liu(Jane)'s work as a Data Analytics student at George Washington University, DC, USA. It does not only show her resume-related skills for recruitment-seeking purpose, but also shows her passion for life beyond professional fields for her own records. 
 
-As the top of the class in Data Analytics program at GWU and the VP of GWU Consulting Club, Mingyuhui Liu (Jane)'s main interest lies in using her data analytical skills to succeed in technology industry, consulting or financial services. And now she is actively seeking for internship/full-time opportunities in consulting or financial industries in US or China area. (Please feel free to <a href="#ContactMe">contact me</a>!)
+As the top of the class in Data Analytics program at GWU and the VP of GWU Consulting Club, Mingyuhui Liu (Jane)'s main interest lies in using her data analytical skills to succeed in technology industry, consulting or financial services. She will join the Pacific Investment Management Company ([PIMCO](https://www.pimco.com/en-us)) in Summer 2018 as a Technology Analyst Intern, and would appreciate any full-time opportunity in consulting or financial industries in US or China area. (Please feel free to <a href="#ContactMe">contact me</a>!)
 
 Jane is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
 
