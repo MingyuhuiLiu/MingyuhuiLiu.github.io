@@ -34,7 +34,7 @@ description: Student's Courses
 
 ---
 
-### <a name="old"></a>2015~2017: Duke University
+### <a name="duke"></a>2015~2017: Duke University
 #### Business Fundamentals for Engineers (Spring2016)
 
 
