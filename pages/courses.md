@@ -24,6 +24,7 @@ description: Student's Courses
 - [Assignments 3](HW3_Mingyuhui_Liu(Jane).ipynb)
 - [Assignments 4](HW4_Mingyuhui_Liu(Jane).ipynb)
 - [Assignments 5](HW5_Mingyuhui_Liu(Jane).ipynb)
+- [Final Projectc](Final_Main_Source_Code_Mingyuhui Liu(Jane).ipynb)
 
 ---
 
