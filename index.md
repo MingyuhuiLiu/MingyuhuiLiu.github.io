@@ -19,15 +19,13 @@ keywords: Data analytics
   </div>
 </div>
 
-This website is desinged to give an insight of Mingyuhui Liu(Jane)'s work as a Data Analytics student at George Washington University, DC, USA. It does not only show her resume-related skills for recruitment-seeking purpose, but also shows her passion for life beyond professional fields for her own records. 
+As the top of the class in Data Analytics program at GWU and the VP of GWU Consulting Club, Mingyuhui Liu (Jane)'s main interest lies in using her data analytical skills to succeed in financial services. She will join the Pacific Investment Management Company ([PIMCO](https://www.pimco.com/en-us)) in 2019 as a full-time Technology Analyst in Newport Beach office, CA. 
 
-As the top of the class in Data Analytics program at GWU and the VP of GWU Consulting Club, Mingyuhui Liu (Jane)'s main interest lies in using her data analytical skills to succeed in technology industry, consulting or financial services. She will join the Pacific Investment Management Company ([PIMCO](https://www.pimco.com/en-us)) in Summer 2018 as a Technology Analyst Intern, and would appreciate any full-time opportunity in consulting or financial industries in US or China area. (Please feel free to <a href="#ContactMe">contact me</a>!)
+Jane is a second-year MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
 
-Jane is an MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
+For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "Intro" for a quick walk-down bullet points.
 
-For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "Intro" for a quick walk-down bullet points, or simply click on the links above!
-
-During her leisure time, Jane loves traveling, filming and Soccer. She also volunteers in Chengdu Giant Panda Research Base when she goes back to her hometown in Chengdu, Sichuan, China. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Soccer-Loving photos and stories!
+During her leisure time, Jane loves traveling, filming and Soccer. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Soccer-Loving photos and stories!
 
 ### <a name="Portfolio"></a>Portfolio: Skills/Tools Examples
 
