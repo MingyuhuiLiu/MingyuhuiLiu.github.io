@@ -66,4 +66,3 @@ During her leisure time, Jane loves traveling, filming and Soccer. Click [here](
 
 ### <a name="ContactMe"></a>Contact Me
 Email: janeliu@gwmail.gwu.edu
-Address: Washington DC, 20005, USA
