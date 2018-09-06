@@ -5,7 +5,7 @@ description:
 keywords: Data analytics
 ---
 
-### <a name="Bio"></a>Greetings from Jane!
+### <a name="Bio"></a>Greetings
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
