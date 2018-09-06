@@ -65,8 +65,5 @@ During her leisure time, Jane loves traveling, filming and Soccer. Click [here](
 </div>
 
 ### <a name="ContactMe"></a>Contact Me
-Email: mingyuhui.liu@yahoo.com or janeliu@gwmail.gwu.edu
-
-Tel: +1 919 699 9657
-
+Email: janeliu@gwmail.gwu.edu
 Address: Washington DC, 20005, USA
