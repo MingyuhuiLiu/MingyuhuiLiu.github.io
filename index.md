@@ -10,8 +10,6 @@ keywords: Data analytics
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf">Resume</a></li>
-          <li><a href="{{ BASE_PATH }}/assets/Jane.pdf">中文版简历</a></li>
-          <li><a href="{{ BASE_PATH }}/assets/刘明宇汇CV.pdf">CV中文加长</a></li>
           <li><a href="https://mingyuhuiliu.github.io/">Github</a></li>
         <li><a href="https://www.linkedin.com/in/mingyuhuiliu/">LinkedIn</a></li>
       </ul>
