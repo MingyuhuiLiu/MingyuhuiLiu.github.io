@@ -9,7 +9,7 @@ keywords: Data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Mingyuhui Liu(Jane).pdf">Resume (Updated Apr, 2018)</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Jane_v3.pdf">Resume (Updated Oct, 2018)</a></li>
           <li><a href="https://mingyuhuiliu.github.io/">Github</a></li>
         <li><a href="https://www.linkedin.com/in/mingyuhuiliu/">LinkedIn</a></li>
       </ul>
