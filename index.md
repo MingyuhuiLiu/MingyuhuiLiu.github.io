@@ -20,8 +20,6 @@ As the top of the class in Data Analytics program at GWU and the VP of GWU Consu
 
 Jane is a second-year MS candidate in Data Analytics in GWU. She is also holding a Master's Degree in Environmental Management from Duke University, and a Bachelor's degree in Mechanical Engineering from Xi'an Jiaotong University, Xi'an, China. 
 
-For more information, please click [here](https://mingyuhuiliu.github.io/pages/about.html) to go to "Intro" for a quick walk-down bullet points.
-
 During her leisure time, Jane loves traveling, filming and Soccer. Click [here](https://mingyuhuiliu.github.io/pages/lifestyle.html) to see more about her traveling, volunteering and Soccer-Loving photos and stories!
 
 ### <a name="Portfolio"></a>Portfolio: Skills/Tools Examples
