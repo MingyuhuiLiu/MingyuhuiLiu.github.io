@@ -20,7 +20,7 @@ description: Student's Courses
 
 - [Syllabus](DA2_Syllabus_2018.doc)
 - [Assignments 1](HW1_Mingyuhui_Liu(Jane).ipynb)
-- [Assignments 2](HW2_Mingyuhui_Liu(Jane).ipynb)
+- [Assignments 2](HW2_Mingyuhui_LIU(Jane).ipynb)
 - [Assignments 3](HW3_Mingyuhui_Liu(Jane).ipynb)
 - [Assignments 4](HW4_Mingyuhui_Liu(Jane).ipynb)
 - [Assignments 5](HW5_Mingyuhui_Liu(Jane).ipynb)
