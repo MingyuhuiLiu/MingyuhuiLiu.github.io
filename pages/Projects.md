@@ -7,16 +7,32 @@ description: Student's Presentations in Data Analytics
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#Capstone"><u>Capstone: Twitter sentiment predict stock price changes</u></a></li>
             <li><a href="#Bank-Campaign"><u>Bank Campaign Prediction</u></a></li>
             <li><a href="#capitalbikeshare"><u>Business Intelligence</u></a></li>
             <li><a href="#kingcounty"><u>Price Prediction</u></a></li>
             <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
-            <<li><a href="#MTurk"><u>Crowd Sourcing Project: Used Car Prices</u></a></li>
+            <!--<<li><a href="#MTurk"><u>Crowd Sourcing Project: Used Car Prices</u></a></li>
             <li><a href="#master"><u>Master's Project</u></a></li>
-            <li><a href="#R"><u>R Project</u></a></li>
+            <li><a href="#R"><u>R Project</u></a></li> -->
         </ul>
     </div>
 </div>
+---
+
+### <a name="Capstone"></a>Capstone Project: Twitter sentiments to predict stock price changes, 2018.10-2019.04
+In light of the heating topic of whether public sentiment extracted from social media can predict stock market, this research proposed a predictive model on the stock market movement with public sentiment as an explanatory variable. 3 target companies were chosen and examined – Tesla, Microsoft and Netflix. In general, with 5-minutes’ intervals, the research proposed a model that outperforms the baseline Autoregression Regression Integrated Moving Average (ARIMA) model across target companies and across multiple days. 
+ * Methodologies: <br/>
+ &nbsp;&nbsp; * Time series<br/>
+ &nbsp;&nbsp; * Regressions<br/>
+ &nbsp;&nbsp; * Sentiment analysis<br/>
+ <!-- <br/>&nbsp; &nbsp; &nbsp; Download: 
+[Download the Presentation(pdf)](FinalPresentation.pptx) -->
+ <br/>&nbsp; &nbsp; &nbsp; Download: 
+[Download the Presentation(pdf)](FinalPresentation.pptx)
+<br/>&nbsp; &nbsp; &nbsp; Download: 
+[Download the Python Codes](Github_Version.ipynb)
+
 ---
 
 ### <a name="Bank Campaign"></a>Campaign for Deposit Subscription: Feature Selection and Prediction, 2018.02-2018.05
@@ -95,7 +111,7 @@ Scree Plot and Loading Plot from MiniTab.
 <br/>&nbsp; &nbsp; &nbsp;[Download the Report](Regression.pdf)
 
 ---
-
+<!--
 ### <a name="MTurk"></a>Crowd Sourcing Project: MTurk on Used Car Prices
 <br/>&nbsp; &nbsp; &nbsp; WorkerSandbox: Search for "Mingyuhui Liu".
 [Sign In To View the Crowd Sourcing MTurk](http://workersandbox.mturk.com)
@@ -138,6 +154,6 @@ Scree Plot and Loading Plot from MiniTab.
 &nbsp; &nbsp; &nbsp;<br/><img src="Sensitivity.png" alt="R/A1" style="width:280px;height:230px;">
 
 <br/>&nbsp; &nbsp; &nbsp; 95% Posteriors Sample: Cohort
-&nbsp; &nbsp; &nbsp; <br/><img src="PosteriorCohort.png" alt="R/A1" style="width:280px;height:230px;">
+&nbsp; &nbsp; &nbsp; <br/><img src="PosteriorCohort.png" alt="R/A1" style="width:280px;height:230px;"> -->
 ---
 
