@@ -32,7 +32,12 @@ In light of the heating topic of whether public sentiment extracted from social 
 [Download the Presentation(pdf)](FinalPresentation.pptx)
 <br/>&nbsp; &nbsp; &nbsp; Download: 
 [Download the Python Codes](Github_Version.ipynb)
-
+<br/>&nbsp; &nbsp; &nbsp; Microsoft Full Model Predictions Vs True Price Changes:<br/>
+&nbsp; &nbsp; &nbsp;<br/><img src="Predictions_twitter.png" alt="R/A1" style="width:160px;height:230px;">
+<br/>&nbsp; &nbsp; &nbsp; Tesla Full Model Predictions Vs True Price Changes:<br/>
+&nbsp; &nbsp; &nbsp;<br/><img src="predictions_netflix.png" alt="R/A1" style="width:160px;height:230px;">
+<br/>&nbsp; &nbsp; &nbsp; Netflix Full Model Predictions Vs True Price Changes:<br/>
+&nbsp; &nbsp; &nbsp;<br/><img src="predictions_true_netflix.png" alt="R/A1" style="width:160px;height:230px;">
 ---
 
 ### <a name="Bank Campaign"></a>Campaign for Deposit Subscription: Feature Selection and Prediction, 2018.02-2018.05
